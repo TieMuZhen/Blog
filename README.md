@@ -1,2 +1,3 @@
 # Blog
-慢慢来   会很快
+
+[Promise源码学习](../../issues/1)
