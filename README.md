@@ -10,7 +10,7 @@
 - [可迭代对象](../../issues/5)
 - [实现跨域的方式](../../issues/6)
 > ## HTTP
-- [HTTP Headers](../../issues/7)
+- [HTTP headers和HTTP request methods](../../issues/7)
 > ## Vue
 
 > ## Node
