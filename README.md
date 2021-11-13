@@ -9,6 +9,8 @@
 - [实现数组去重](../../issues/4)
 - [可迭代对象](../../issues/5)
 - [实现跨域的方式](../../issues/6)
+> ## HTTP
+- [HTTP Headers](../../issues/7)
 > ## Vue
 
 > ## Node
