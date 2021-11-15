@@ -10,7 +10,7 @@
 - [可迭代对象](../../issues/5)
 - [实现跨域的方式](../../issues/6)
 - [判断数据类型](../../issues/8)
-- [Map和ForEach的区别](../../issues/9)
+- [for of , for in 和 forEach,map 的区别](../../issues/9)
 > ## HTTP
 - [HTTP headers和HTTP request methods](../../issues/7)
 > ## Vue
