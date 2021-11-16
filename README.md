@@ -18,6 +18,7 @@
 - [String() 与 new String() 的差异](../../issues/14)
 - [内存空间](../../issues/15)
 - [4类常见内存泄漏及如何避免](../../issues/16)
+- [0.1 + 0.2不等于0.3](../../issues/17)
 
 > ## HTTP
 - [HTTP headers和HTTP request methods](../../issues/7)
