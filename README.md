@@ -15,6 +15,7 @@
 - [== 和 === 区别](../../issues/11)
 - [this指向](../../issues/12)
 - [LHS和RHS查询](../../issues/13)
+- [String() 与 new String() 的差异](../../issues/14)
 
 > ## HTTP
 - [HTTP headers和HTTP request methods](../../issues/7)
