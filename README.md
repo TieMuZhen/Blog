@@ -19,6 +19,7 @@
 - [内存空间](../../issues/15)
 - [4类常见内存泄漏及如何避免](../../issues/16)
 - [0.1 + 0.2不等于0.3](../../issues/17)
+- [如何处理十万级别的大量数据 ？](../../issues/18)
 
 > ## HTTP
 - [HTTP headers和HTTP request methods](../../issues/7)
