@@ -22,6 +22,7 @@
 - [如何处理十万级别的大量数据 ？](../../issues/18)
 - [原型链解决的是什么问题？prototype 和__proto__区别是什么？](../../issues/19)
 - [ES6新的特性](../../issues/20)
+- [async / await](../../issues/21)
 
 > ## HTTP
 - [HTTP headers和HTTP request methods](../../issues/7)
