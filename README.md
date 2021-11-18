@@ -23,6 +23,7 @@
 - [原型链解决的是什么问题？prototype 和__proto__区别是什么？](../../issues/19)
 - [ES6新的特性](../../issues/20)
 - [async / await](../../issues/21)
+- [requestAnimationFrame 和 setTimeout/setInterval 区别](../../issues/22)
 
 > ## HTTP
 - [HTTP headers和HTTP request methods](../../issues/7)
