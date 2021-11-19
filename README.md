@@ -26,6 +26,7 @@
 - [requestAnimationFrame 和 setTimeout/setInterval 区别](../../issues/22)
 - [类型转换规则](../../issues/23)
 - [ES6 模块、Commond、AMD、CMD的区别](../../issues/24)
+- [浏览器事件代理机制的原理](../../issues/25)
 
 > ## HTTP
 - [HTTP headers和HTTP request methods](../../issues/7)
