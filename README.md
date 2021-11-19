@@ -25,6 +25,7 @@
 - [async / await](../../issues/21)
 - [requestAnimationFrame 和 setTimeout/setInterval 区别](../../issues/22)
 - [类型转换规则](../../issues/23)
+- [Commond、AMD、CMD的区别](../../issues/24)
 
 > ## HTTP
 - [HTTP headers和HTTP request methods](../../issues/7)
