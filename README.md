@@ -28,6 +28,7 @@
 - [ES6 模块、Commond、AMD、CMD的区别](../../issues/24)
 - [浏览器事件代理机制的原理](../../issues/25)
 - [自定义事件](../../issues/26)
+- [js异步加载方式](../../issues/27)
 
 > ## HTTP
 - [HTTP headers和HTTP request methods](../../issues/7)
