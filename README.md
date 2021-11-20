@@ -29,6 +29,7 @@
 - [浏览器事件代理机制的原理](../../issues/25)
 - [自定义事件](../../issues/26)
 - [js异步加载方式](../../issues/27)
+- [预编译](../../issues/28)
 
 > ## HTTP
 - [HTTP headers和HTTP request methods](../../issues/7)
