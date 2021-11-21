@@ -30,6 +30,7 @@
 - [自定义事件](../../issues/26)
 - [js异步加载方式](../../issues/27)
 - [预编译](../../issues/28)
+- [Proxy 与 Object.defineProperty区别](../../issues/29)
 
 > ## HTTP
 - [HTTP headers和HTTP request methods](../../issues/7)
