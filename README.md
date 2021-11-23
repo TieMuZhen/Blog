@@ -36,6 +36,7 @@
 
 > ## CSS
 - [响应式布局](../../issues/32)
+- [样式的继承性和权重计算](../../issues/33)
 
 > ## HTTP
 - [HTTP headers和HTTP request methods](../../issues/7)
