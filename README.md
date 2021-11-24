@@ -39,6 +39,7 @@
 - [样式的继承性和权重计算](../../issues/33)
 - [less基本知识](../../issues/34) 
 - [元素居中显示](../../issues/36) 
+- [inline、block、inline-block和float区别](../../issues/37) 
 
 > ## HTTP
 - [HTTP headers和HTTP request methods](../../issues/7)
