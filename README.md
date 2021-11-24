@@ -44,6 +44,7 @@
 > ## HTTP
 - [HTTP headers和HTTP request methods](../../issues/7)
 > ## Vue
+- [vue-router](../../issues/38)
 
 > ## Node
 
