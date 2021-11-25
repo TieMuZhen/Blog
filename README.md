@@ -36,7 +36,8 @@
 - [深拷贝和浅拷贝](../../issues/39)
 - [for...in、Object.keys、Object.getOwnPropertyNames 之间区别](../../issues/40)
 - [10 个 Ajax 同时发起请求，全部返回展示结果，并且至多允许三次失败](../../issues/41)
-
+- [基于 Localstorage 设计一个 1M 的缓存系统，需要实现缓存淘汰机制](../../issues/42)
+ 
 > ## CSS
 - [响应式布局](../../issues/32)
 - [样式的继承性和权重计算](../../issues/33)
