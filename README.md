@@ -33,6 +33,7 @@
 - [Proxy 与 Object.defineProperty区别](../../issues/29)
 - [Object.is() 与 ===、== 区别](../../issues/30)
 - [事件循环EvenLoop](../../issues/31)
+- [深拷贝和浅拷贝](../../issues/39)
 
 > ## CSS
 - [响应式布局](../../issues/32)
