@@ -34,6 +34,7 @@
 - [Object.is() 与 ===、== 区别](../../issues/30)
 - [事件循环EvenLoop](../../issues/31)
 - [深拷贝和浅拷贝](../../issues/39)
+- [for...in、Object.keys、Object.getOwnPropertyNames 之间区别 ](../../issues/40)
 
 > ## CSS
 - [响应式布局](../../issues/32)
