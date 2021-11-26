@@ -47,6 +47,15 @@
 
 > ## HTTP
 - [HTTP headers和HTTP request methods](../../issues/7)
+- [HTTP 缓存](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Caching)
+
+> ## 浏览器
+- [现代浏览器内部机制](https://cloud.tencent.com/developer/article/1806716)
+- [彻底理解浏览器的缓存机制](https://juejin.cn/post/6844903593275817998)
+- [图解 Http 缓存控制之 max-age=0、no-cache、no-store 区别](https://zhuanlan.zhihu.com/p/55623075)
+- [从输入 URL 到页面加载完成的过程中都发生了什么事情？](https://fex.baidu.com/blog/2014/05/what-happen/)
+- [当你在浏览器中输入 google.com 并且按下回车之后发生了什么？](https://github.com/skyline75489/what-happens-when-zh_CN)
+
 > ## Vue
 - [vue-router](../../issues/38)
 
@@ -55,6 +64,15 @@
 
 > ## webpack
 - [Loader](../../issues/35)
+
+> ## TypeScript
+- [TypeScript 入门教程](https://ts.xcatliu.com/)
+- [TypeScript 的另一面：类型编程](https://juejin.cn/post/6989796543880495135)
+
+> ## 监控
+- [monitor](https://github.com/clouDr-f2e/monitor)，用于收集页面的用户点击行为、路由跳转、接口报错、代码报错、并上报服务端
+- [如何进行 web 性能监控？](http://www.alloyteam.com/2020/01/14184/#prettyPhoto)
+- [美团可视化埋点方案](https://tech.meituan.com/2019/08/15/mtflexbox-automation-buried-point-exploration.html)
 
 > ## 微前端
 - [微前端实践讲解](https://juejin.cn/post/6844903943873675271)
