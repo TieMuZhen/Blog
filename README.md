@@ -24,7 +24,6 @@
 - [async / await](../../issues/21)
 - [requestAnimationFrame 和 setTimeout/setInterval 区别](../../issues/22)
 - [类型转换规则](../../issues/23)
-- [BFC](../../issues/47)
 - [ES6 模块、Commond、AMD、CMD的区别](../../issues/24)
 - [浏览器事件代理机制的原理](../../issues/25)
 - [自定义事件](../../issues/26)
@@ -53,6 +52,7 @@
 - [元素居中显示](../../issues/36) 
 - [inline、block、inline-block和float区别](../../issues/37) 
 - [link和@import的区别](../../issues/48) 
+- [BFC](../../issues/47)
 
 > ## HTTP
 - [HTTP headers和HTTP request methods](../../issues/7)
