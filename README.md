@@ -52,6 +52,7 @@
 - [less基本知识](../../issues/34) 
 - [元素居中显示](../../issues/36) 
 - [inline、block、inline-block和float区别](../../issues/37) 
+- [link和@import的区别](../../issues/48) 
 
 > ## HTTP
 - [HTTP headers和HTTP request methods](../../issues/7)
