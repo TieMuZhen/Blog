@@ -40,6 +40,7 @@
 - [JS中原始类型有哪几种？null 是对象吗？原始数据类型和复杂数据类型有什么区别？](../../issues/43)
 - [让 (a == 1 && a == 2 && a == 3) 的值为true](../../issues/45)
 - [空值合并运算符 '??'](https://zh.javascript.info/nullish-coalescing-operator)
+- [使用Promise实现红绿灯交替重复亮](../../issues/46)
  
 > ## HTML
 - [对HTML5语义化的理解](../../issues/44)
