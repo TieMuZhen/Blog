@@ -18,13 +18,13 @@
 - [String() 与 new String() 的差异](../../issues/14)
 - [内存空间](../../issues/15)
 - [4类常见内存泄漏及如何避免](../../issues/16)
-- [0.1 + 0.2不等于0.3](../../issues/17)
 - [如何处理十万级别的大量数据 ？](../../issues/18)
 - [原型链解决的是什么问题？prototype 和__proto__区别是什么？](../../issues/19)
 - [ES6新的特性](../../issues/20)
 - [async / await](../../issues/21)
 - [requestAnimationFrame 和 setTimeout/setInterval 区别](../../issues/22)
 - [类型转换规则](../../issues/23)
+- [BFC](../../issues/47)
 - [ES6 模块、Commond、AMD、CMD的区别](../../issues/24)
 - [浏览器事件代理机制的原理](../../issues/25)
 - [自定义事件](../../issues/26)
@@ -41,7 +41,8 @@
 - [让 (a == 1 && a == 2 && a == 3) 的值为true](../../issues/45)
 - [空值合并运算符 '??'](https://zh.javascript.info/nullish-coalescing-operator)
 - [使用Promise实现红绿灯交替重复亮](../../issues/46)
- 
+- [0.1 + 0.2不等于0.3](../../issues/17)
+
 > ## HTML
 - [对HTML5语义化的理解](../../issues/44)
 
