@@ -28,7 +28,7 @@
 - [浏览器事件代理机制的原理](../../issues/25)
 - [自定义事件](../../issues/26)
 - [js异步加载方式](../../issues/27)
-- [预编译](../../issues/28)
+- [预编译、作用域与执行上下文](../../issues/28)
 - [Proxy 与 Object.defineProperty区别](../../issues/29)
 - [Object.is() 与 ===、== 区别](../../issues/30)
 - [事件循环EvenLoop](../../issues/31)
