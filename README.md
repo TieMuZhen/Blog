@@ -74,6 +74,7 @@
 > ## Node
 - [Node 定时器、Event Loop详解](http://www.ruanyifeng.com/blog/2018/02/node-event-loop.html)
 - [PM2实用入门指南](https://www.cnblogs.com/chyingp/p/pm2-documentation.html)
+- [Node.js 与 log4js](https://zhuanlan.zhihu.com/p/22110802)
 
 > ## webpack
 - [Loader](../../issues/35)
