@@ -15,6 +15,7 @@
 - [== 和 === 区别](../../issues/11)
 - [this指向](../../issues/12)
 - [LHS和RHS查询](../../issues/13)
+- [typeof 、instanceof是否正确判断类型? instanceof 原理](../../issues/51)
 - [String() 与 new String() 的差异](../../issues/14)
 - [内存空间](../../issues/15)
 - [4类常见内存泄漏及如何避免](../../issues/16)
