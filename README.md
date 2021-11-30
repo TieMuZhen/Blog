@@ -4,6 +4,7 @@
 > ## Javascript
 
 - [继承的七种方式](../../issues/53)
+- [new运算符的执行过程](../../issues/55)
 - [Promise源码学习](../../issues/1)
 - [防抖和节流](../../issues/2)
 - [数组扁平化处理](../../issues/3)
