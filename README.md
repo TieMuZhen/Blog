@@ -71,6 +71,9 @@
 - [从输入 URL 到页面加载完成的过程中都发生了什么事情？](https://fex.baidu.com/blog/2014/05/what-happen/)
 - [当你在浏览器中输入 google.com 并且按下回车之后发生了什么？](https://github.com/skyline75489/what-happens-when-zh_CN)
 
+> ## 设计模式
+- [工厂模式、寄生构造函数模式、稳妥构造函数模式](../../issues/54)
+
 > ## Vue
 - [vue-router](../../issues/38)
 
