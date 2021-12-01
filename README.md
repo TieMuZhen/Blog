@@ -37,6 +37,7 @@
 - [Object.is() 与 ===、== 区别](../../issues/30)
 - [事件循环EvenLoop](../../issues/31)
 - [深拷贝和浅拷贝](../../issues/39)
+- [AST抽象语法树](https://segmentfault.com/a/1190000016231512)
 - [反射机制](https://www.cnblogs.com/Leophen/p/14838608.html)[及Reflect](https://zhuanlan.zhihu.com/p/92700557)
 - [for...in、Object.keys、Object.getOwnPropertyNames 之间区别](../../issues/40)
 - [10 个 Ajax 同时发起请求，全部返回展示结果，并且至多允许三次失败](../../issues/41)
