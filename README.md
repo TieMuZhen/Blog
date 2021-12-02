@@ -82,6 +82,8 @@
 - [当你在浏览器中输入 google.com 并且按下回车之后发生了什么？](https://github.com/skyline75489/what-happens-when-zh_CN)
 #### 浏览器安全
 - [Web 安全](https://segmentfault.com/a/1190000023396707)
+#### 垃圾回收
+- [V8垃圾回收机制、内存泄露](../../issues/56)
 
 > ## 设计模式
 - [工厂模式、构造函数模式、寄生构造函数模式、稳妥构造函数模式](../../issues/54)
