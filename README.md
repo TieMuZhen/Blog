@@ -66,12 +66,22 @@
 - [HTTP 缓存](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Caching)
 
 > ## 浏览器
+#### 架构
+- [浏览器架构，共四部分](https://cloud.tencent.com/developer/article/1806716)
+#### 渲染
+- [浏览器的渲染原理](https://coolshell.cn/articles/9666.html)
+- [回流与重绘 (Reflow & Repaint)](https://juejin.cn/post/6844903569087266823)
+#### JS执行机制
 - [事件循环EvenLoop](../../issues/31)
-- [现代浏览器内部机制](https://cloud.tencent.com/developer/article/1806716)
+- [从浏览器多进程到JS单线程](https://segmentfault.com/a/1190000012925872)
+#### 缓存
 - [彻底理解浏览器的缓存机制](https://juejin.cn/post/6844903593275817998)
 - [图解 Http 缓存控制之 max-age=0、no-cache、no-store 区别](https://zhuanlan.zhihu.com/p/55623075)
+#### 整体流程
 - [从输入 URL 到页面加载完成的过程中都发生了什么事情？](https://fex.baidu.com/blog/2014/05/what-happen/)
 - [当你在浏览器中输入 google.com 并且按下回车之后发生了什么？](https://github.com/skyline75489/what-happens-when-zh_CN)
+#### 浏览器安全
+- [Web 安全](https://segmentfault.com/a/1190000023396707)
 
 > ## 设计模式
 - [工厂模式、构造函数模式、寄生构造函数模式、稳妥构造函数模式](../../issues/54)
