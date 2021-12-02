@@ -119,3 +119,7 @@
 
 > ## 微前端
 - [微前端实践讲解](https://juejin.cn/post/6844903943873675271)
+
+> ## 工具
+- [Swagger API规范](https://swagger.io/)
+- [Jenkins 持续集成](https://www.jenkins.io/zh/doc/pipeline/tour/getting-started/)
