@@ -36,9 +36,7 @@
 - [预编译、作用域与执行上下文](../../issues/28)
 - [Proxy 与 Object.defineProperty区别](../../issues/29)
 - [Object.is() 与 ===、== 区别](../../issues/30)
-- [事件循环EvenLoop](../../issues/31)
 - [深拷贝和浅拷贝](../../issues/39)
-- [AST抽象语法树](https://segmentfault.com/a/1190000016231512)
 - [反射机制](https://www.cnblogs.com/Leophen/p/14838608.html)[及Reflect](https://zhuanlan.zhihu.com/p/92700557)
 - [for...in、Object.keys、Object.getOwnPropertyNames 之间区别](../../issues/40)
 - [10 个 Ajax 同时发起请求，全部返回展示结果，并且至多允许三次失败](../../issues/41)
@@ -68,6 +66,7 @@
 - [HTTP 缓存](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Caching)
 
 > ## 浏览器
+- [事件循环EvenLoop](../../issues/31)
 - [现代浏览器内部机制](https://cloud.tencent.com/developer/article/1806716)
 - [彻底理解浏览器的缓存机制](https://juejin.cn/post/6844903593275817998)
 - [图解 Http 缓存控制之 max-age=0、no-cache、no-store 区别](https://zhuanlan.zhihu.com/p/55623075)
