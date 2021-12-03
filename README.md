@@ -124,6 +124,11 @@
 > ## 微前端
 - [微前端实践讲解](https://juejin.cn/post/6844903943873675271)
 
+> ## 性能优化
+- [最新性能指标](https://juejin.cn/post/6850037270729359367)
+- [前端性能优化 24 条建议（2020）](https://juejin.cn/post/6892994632968306702)
+- [前端性能优化之旅](https://alienzhou.github.io/fe-performance-journey/)
+
 > ## 工具
 - [Swagger API规范](https://swagger.io/)
 - [Jenkins 持续集成](https://www.jenkins.io/zh/doc/pipeline/tour/getting-started/)
