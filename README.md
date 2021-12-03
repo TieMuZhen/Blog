@@ -133,3 +133,20 @@
 > ## 工具
 - [Swagger API规范](https://swagger.io/)
 - [Jenkins 持续集成](https://www.jenkins.io/zh/doc/pipeline/tour/getting-started/)
+
+> ## 图书馆
+#### 前端
+- [你不知道的JavaScript（上卷）](./图书馆/编程/你不知道的JavaScript（上卷）.pdf)
+- [你不知道的JavaScript（中卷）](./图书馆/编程/你不知道的JavaScript（中卷）.pdf)
+- [你不知道的JavaScript（下卷）](./图书馆/编程/你不知道的JavaScript（下卷）.pdf)
+- [JavaScript函数式编程](./图书馆/编程/JavaScript函数式编程.pdf)
+#### 后端
+- [Kafka](./图书馆/编程/尚硅谷大数据技术之Kafka.pdf)
+#### 人工智能
+- [智能Web算法中文版](./图书馆/编程/人工智能/智能Web算法中文版.pdf)
+- [人工智能游戏编程真言](./图书馆/编程/人工智能/人工智能游戏编程真言.pdf)
+- [游戏人工智能编程案例精粹](./图书馆/编程/人工智能/游戏人工智能编程案例精粹.pdf.pdf)
+#### 周易
+- [周易正读_徐丛.pdf](./图书馆/周易/周易正读_徐丛.pdf)
+#### 英语
+- [硅谷第一季中英剧本](./图书馆/英语/硅谷第一季Silicon Valley中英剧本_841c7.pdf)
