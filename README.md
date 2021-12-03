@@ -125,6 +125,7 @@
 - [微前端实践讲解](https://juejin.cn/post/6844903943873675271)
 
 > ## 性能优化
+- [QPS、TPS、并发用户数、吞吐量关系](https://zhuanlan.zhihu.com/p/111914041)
 - [最新性能指标](https://juejin.cn/post/6850037270729359367)
 - [前端性能优化 24 条建议（2020）](https://juejin.cn/post/6892994632968306702)
 - [前端性能优化之旅](https://alienzhou.github.io/fe-performance-journey/)
