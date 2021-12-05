@@ -77,6 +77,7 @@
 > ## HTTP
 - [HTTP headers和HTTP request methods](../../issues/7)
 - [HTTP 缓存](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Caching)
+- [HTTP/0.9、HTTP/1.0、HTTP/1.1、HTTP/2之间的区别](../../issues/57)
 
 > ## 浏览器
 #### 架构
