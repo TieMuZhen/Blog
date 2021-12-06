@@ -102,6 +102,7 @@
 - [工厂模式、构造函数模式、寄生构造函数模式、稳妥构造函数模式](../../issues/54)
 
 > ## Vue
+- [Vue生命周期](https://segmentfault.com/a/1190000011381906)
 - [Vue.nextTick 的原理和用途](https://segmentfault.com/a/1190000012861862)
 - [vue-router](../../issues/38)
 
