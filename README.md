@@ -142,6 +142,9 @@
 > ## 微前端
 - [微前端实践讲解](https://juejin.cn/post/6844903943873675271)
 
+> ## Nginx
+- [Nginx基本梳理](../../issues/60)
+
 > ## 性能优化
 - [QPS、TPS、并发用户数、吞吐量关系](https://zhuanlan.zhihu.com/p/111914041)
 - [最新性能指标](https://juejin.cn/post/6850037270729359367)
