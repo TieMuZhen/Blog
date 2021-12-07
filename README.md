@@ -12,7 +12,6 @@
 <div align="center">冲天香阵透长安，满城尽带黄金甲。</div>
 </div>
 
-[浏览器](#浏览器)
 # :book: 目录
 
 > ## Javascript
