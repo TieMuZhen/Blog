@@ -12,6 +12,7 @@
 <div align="center">冲天香阵透长安，满城尽带黄金甲。</div>
 </div>
 
+[浏览器](#浏览器)
 # :book: 目录
 
 > ## Javascript
@@ -78,7 +79,7 @@
 - [HTTP headers和HTTP request methods](../../issues/7)
 - [HTTP/0.9、HTTP/1.0、HTTP/1.1、HTTP/2之间的区别](../../issues/57)
 
-> ## 浏览器
+# 浏览器
 #### 架构
 - [浏览器架构，共四部分](https://cloud.tencent.com/developer/article/1806716)
 #### 渲染
