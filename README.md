@@ -77,6 +77,7 @@
 > ## HTTP
 - [HTTP headers和HTTP request methods](../../issues/7)
 - [HTTP/0.9、HTTP/1.0、HTTP/1.1、HTTP/2之间的区别](../../issues/57)
+- [Session、Cookie、Token区别](https://juejin.cn/post/6844904115080790023)、[分布式Session一致性的4种解决方案](https://segmentfault.com/a/1190000022404396)
 
 > ## 浏览器
 #### 架构
