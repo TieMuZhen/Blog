@@ -101,6 +101,7 @@
 - [Vue.nextTick 的原理和用途](https://segmentfault.com/a/1190000012861862)
 - [Mixins （混入）](https://segmentfault.com/a/1190000015698391)
 - [数据响应(数据劫持)](../../issues/58)
+- [vue中8种组件通信方式](https://juejin.cn/post/6844903887162310669)
 - [vue-router](../../issues/38)
 
 > ## Node
