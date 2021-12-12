@@ -106,6 +106,7 @@
 - [vue-router](../../issues/38)
 - [按需加载的3种方式：vue异步组件require()、es提案的import()、webpack的require.ensure()](../../issues/62)
 - [vuex 简单介绍](../../issues/63)
+- [插件 Vue.use(plugin) 的原理和使用](../../issues/64)
 
 > ## Node
 - [Node 定时器、Event Loop详解](http://www.ruanyifeng.com/blog/2018/02/node-event-loop.html)
