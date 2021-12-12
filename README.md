@@ -104,6 +104,7 @@
 - [数据响应(数据劫持)](../../issues/58)
 - [vue中8种组件通信方式](https://juejin.cn/post/6844903887162310669)
 - [vue-router](../../issues/38)
+- [按需加载的3种方式：vue异步组件require()、es提案的import()、webpack的require.ensure()](../../issues/62)
 
 > ## Node
 - [Node 定时器、Event Loop详解](http://www.ruanyifeng.com/blog/2018/02/node-event-loop.html)
