@@ -108,6 +108,7 @@
 - [vuex 简单介绍](../../issues/63)
 - [插件 Vue.use(plugin) 的原理和使用](../../issues/64)
 - [Vue 自定义指令Vue.directive、directives](https://shq5785.blog.csdn.net/article/details/103874164)
+- [为什么使用key](../../issues/66)
 
 > ## Node
 - [Node 定时器、Event Loop详解](http://www.ruanyifeng.com/blog/2018/02/node-event-loop.html)
