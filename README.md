@@ -98,7 +98,7 @@
 - [观察者模式与发布订阅模式](../../issues/61)
 
 > ## Vue
-- [Vue生命周期](https://segmentfault.com/a/1190000011381906)；[父子组件、兄弟组件、宏mixins组件生命周期](https://juejin.cn/post/6844903602356502542)
+- [Vue生命周期](../../issues/65)；[父子组件、兄弟组件、宏mixins组件生命周期](https://juejin.cn/post/6844903602356502542)
 - [Vue.nextTick 的原理和用途](https://segmentfault.com/a/1190000012861862)
 - [Mixins （混入）](https://segmentfault.com/a/1190000015698391)
 - [数据响应(数据劫持)](../../issues/58)
