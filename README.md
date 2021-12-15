@@ -57,6 +57,7 @@
 > ## HTML
 - [对HTML5语义化的理解](../../issues/44)
 - [meta、link之预加载图片、文件](../../issues/49)
+- [SPA单页面优缺点](../../issues/68)
 
 > ## CSS
 - [清除浮动](../../issues/50)
