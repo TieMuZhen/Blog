@@ -106,7 +106,6 @@
 - [vue中8种组件通信方式](https://juejin.cn/post/6844903887162310669)
 - [vue-router](../../issues/38)
 - [按需加载的3种方式：vue异步组件require()、es提案的import()、webpack的require.ensure()](../../issues/62)
-- [vuex 简单介绍](../../issues/63)
 - [插件 Vue.use(plugin) 的原理和使用](../../issues/64)
 - [Vue 自定义指令Vue.directive、directives](https://shq5785.blog.csdn.net/article/details/103874164)
 - [为什么使用key](../../issues/66)
@@ -114,6 +113,7 @@
 - [Vue 动态绑定样式的方式](../../issues/67)
 - [Vue 插槽(slot)](https://juejin.cn/post/6844903920037281805)
 - [Vue2.0和Vue3.0的区别](../../issues/69)
+- [Vuex 简单介绍](../../issues/63)
 
 > ## Node
 - [Node 定时器、Event Loop详解](http://www.ruanyifeng.com/blog/2018/02/node-event-loop.html)
