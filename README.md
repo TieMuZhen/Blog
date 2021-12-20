@@ -115,6 +115,7 @@
 - [Vue 插槽(slot)](https://juejin.cn/post/6844903920037281805)
 - [Vue2.0和Vue3.0的区别](../../issues/69)
 - [Vuex 简单介绍](../../issues/63)
+- [Vue中keep-alive](https://juejin.cn/post/6844903918313406472)
 
 > ## Node
 - [Node 定时器、Event Loop详解](http://www.ruanyifeng.com/blog/2018/02/node-event-loop.html)
