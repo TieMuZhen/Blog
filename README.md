@@ -58,6 +58,7 @@
 - [对HTML5语义化的理解](../../issues/44)
 - [meta、link之预加载图片、文件](../../issues/49)
 - [SPA单页面优缺点及SPA首屏加载速度慢解决办法](../../issues/68)
+- [Axios 详解](https://juejin.cn/post/6863745313711226887)
 
 > ## CSS
 - [清除浮动](../../issues/50)
