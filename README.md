@@ -58,7 +58,6 @@
 - [对HTML5语义化的理解](../../issues/44)
 - [meta、link之预加载图片、文件](../../issues/49)
 - [SPA单页面优缺点及SPA首屏加载速度慢解决办法](../../issues/68)
-- [Axios 详解](https://juejin.cn/post/6863745313711226887)
 
 > ## CSS
 - [清除浮动](../../issues/50)
@@ -74,6 +73,7 @@
 - [HTTP headers和HTTP request methods](../../issues/7)
 - [HTTP/0.9、HTTP/1.0、HTTP/1.1、HTTP/2之间的区别](../../issues/57)
 - [Session、Cookie、Token区别](https://juejin.cn/post/6844904115080790023)、[分布式Session一致性的4种解决方案](https://segmentfault.com/a/1190000022404396)
+- [Axios 详解](https://juejin.cn/post/6863745313711226887)
 
 > ## 浏览器
 #### 架构
