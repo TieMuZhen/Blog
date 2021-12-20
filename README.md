@@ -110,7 +110,7 @@
 - [插件 Vue.use(plugin) 的原理和使用](../../issues/64)
 - [Vue 自定义指令Vue.directive、directives](https://shq5785.blog.csdn.net/article/details/103874164)
 - [为什么使用key](../../issues/66)
-- [为什么避免 v-if 和 v-for 一起用](https://www.kancloud.cn/donaf/vue/633890)
+- [为什么避免 v-if 和 v-for 一起用](../../issues/70)
 - [Vue 动态绑定样式的方式](../../issues/67)
 - [Vue 插槽(slot)](https://juejin.cn/post/6844903920037281805)
 - [Vue2.0和Vue3.0的区别](../../issues/69)
