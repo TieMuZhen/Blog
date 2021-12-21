@@ -103,6 +103,7 @@
 - [Vue中的diff算法](../../issues/71)
 - [Vue生命周期](../../issues/65)；[父子组件、兄弟组件、宏mixins组件生命周期](https://juejin.cn/post/6844903602356502542)
 - [Vue.nextTick 的原理和用途](https://segmentfault.com/a/1190000012861862)
+- [Vue 组件为何采用异步渲染-nextTick的实现原理](https://juejin.cn/post/6899822303022956552)
 - [Mixins （混入）](https://segmentfault.com/a/1190000015698391)
 - [数据响应(数据劫持)](../../issues/58)
 - [vue中8种组件通信方式](https://juejin.cn/post/6844903887162310669)
