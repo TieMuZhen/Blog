@@ -65,7 +65,7 @@
 - [link为什么要放在body前](https://zhuanlan.zhihu.com/p/46387951)
 - [块级元素和行内元素及其区别](../../issues/73)
 - [盒模型与box-sizing](https://www.jianshu.com/p/51e5bb7e9fa2)
-- [BFC](../../issues/47)
+- [BFC、IFC](../../issues/47)
 - [清除浮动](../../issues/50)
 - [响应式布局](../../issues/32)
 - [样式的继承性和权重计算](../../issues/33)
