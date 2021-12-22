@@ -65,6 +65,7 @@
 - [link为什么要放在body前](https://zhuanlan.zhihu.com/p/46387951)
 - [块级元素和行内元素及其区别](../../issues/73)
 - [盒模型与box-sizing](https://www.jianshu.com/p/51e5bb7e9fa2)
+- [BFC](../../issues/47)
 - [清除浮动](../../issues/50)
 - [响应式布局](../../issues/32)
 - [样式的继承性和权重计算](../../issues/33)
@@ -72,7 +73,6 @@
 - [元素居中显示](../../issues/36) 
 - [inline、block、inline-block和float区别](../../issues/37) 
 - [link和@import的区别](../../issues/48) 
-- [BFC](../../issues/47)
 
 > ## HTTP
 - [HTTP headers和HTTP request methods](../../issues/7)
