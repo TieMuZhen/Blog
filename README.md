@@ -66,6 +66,7 @@
 - [display、visibility、opacity、position隐藏元素的区别](../../issues/75)
 - [块级元素和行内元素及其区别](../../issues/73)
 - [盒模型与box-sizing](https://www.jianshu.com/p/51e5bb7e9fa2)
+- [position的五个属性值](https://www.ruanyifeng.com/blog/2019/11/css-position.html)
 - [margin-left: auto元素右对齐以及margin: 0 auto水平居中的原理](../../issues/74)
 - [Grid vs Flex](https://zhuanlan.zhihu.com/p/46757975)
 - [BFC、IFC、margin塌陷、margin合并](../../issues/47)
