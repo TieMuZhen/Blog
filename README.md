@@ -62,6 +62,7 @@
 - [disabled和readonly的区别](../../issues/72)
 
 > ## CSS
+- [link和@import的区别](../../issues/48) 
 - [link为什么要放在body前](https://zhuanlan.zhihu.com/p/46387951)
 - [display、visibility、opacity、position隐藏元素的区别](../../issues/75)
 - [块级元素和行内元素及其区别](../../issues/73)
@@ -73,10 +74,9 @@
 - [清除浮动](../../issues/50)
 - [响应式布局](../../issues/32)
 - [样式的继承性和权重计算](../../issues/33)
-- [less基本知识](../../issues/34) 
 - [元素居中显示](../../issues/36) 
 - [inline、block、inline-block和float区别](../../issues/37) 
-- [link和@import的区别](../../issues/48) 
+- [less基本知识](../../issues/34) 
 
 > ## HTTP
 - [HTTP headers和HTTP request methods](../../issues/7)
