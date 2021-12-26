@@ -19,9 +19,10 @@
 - [实现数组去重](../../issues/4)
 - [可迭代对象](../../issues/5)
 - [实现跨域的方式](../../issues/6)
-- [类型转换规则](../../issues/23)
-- [判断数据类型](../../issues/8)
-- [typeof 、instanceof是否正确判断类型? instanceof 原理](../../issues/51)
+- 类型转换
+    - [类型转换规则](../../issues/23)
+    - [判断数据类型](../../issues/8)
+    - [typeof 、instanceof是否正确判断类型? instanceof 原理](../../issues/51)
 - [for of , for in 和 forEach,map 的区别](../../issues/9)
 - [类数组和数组的区别](../../issues/10)
 - [原型](../../issues/52)
