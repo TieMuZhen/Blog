@@ -25,7 +25,6 @@
     - [Object.is() 与 ===、== 区别](../../issues/30)
     - [JS中原始类型有哪几种？null 是对象吗？原始数据类型和复杂数据类型有什么区别？](../../issues/43)
     - [类型转换规则](../../issues/23)
-    - [判断数据类型](../../issues/8)
     - [typeof 、instanceof是否正确判断类型? instanceof 原理](../../issues/51)
     - [让 (a == 1 && a == 2 && a == 3) 的值为true](../../issues/45)
 - [for of , for in 和 forEach,map 的区别](../../issues/9)
