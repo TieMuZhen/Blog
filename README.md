@@ -45,6 +45,7 @@
 - [跨页面通信](https://juejin.cn/post/6844903811232825357#heading-3)
 - [自定义事件](../../issues/26)
 - [js异步加载方式](../../issues/27)
+- [立即执行函数（IIFE）](../../issues/76)
 - [预编译、作用域与执行上下文](../../issues/28)
 - [Proxy 与 Object.defineProperty区别](../../issues/29)
 - [深拷贝和浅拷贝](../../issues/39)
