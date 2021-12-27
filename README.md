@@ -27,6 +27,9 @@
     - [类型转换规则](../../issues/23)
     - [typeof 、instanceof是否正确判断类型? instanceof 原理](../../issues/51)
     - [让 (a == 1 && a == 2 && a == 3) 的值为true](../../issues/45)
+- 作用域、作用域链、预编译、执行上下文
+    - [预编译、作用域与执行上下文](../../issues/28)
+    - [作用域链](../../issues/77)
 - [for of , for in 和 forEach,map 的区别](../../issues/9)
 - [类数组和数组的区别](../../issues/10)
 - [原型](../../issues/52)
@@ -46,7 +49,6 @@
 - [自定义事件](../../issues/26)
 - [js异步加载方式](../../issues/27)
 - [立即执行函数（IIFE）](../../issues/76)
-- [预编译、作用域与执行上下文](../../issues/28)
 - [Proxy 与 Object.defineProperty区别](../../issues/29)
 - [深拷贝和浅拷贝](../../issues/39)
 - [反射机制](https://www.cnblogs.com/Leophen/p/14838608.html)[及Reflect](https://zhuanlan.zhihu.com/p/92700557)
