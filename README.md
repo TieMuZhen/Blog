@@ -13,7 +13,6 @@
 - [var、let、const三者区别](https://juejin.cn/post/6925641096152399880)
 - [继承的七种方式](../../issues/53)
 - [new的原理是什么？通过new的方式创建对象和通过字面量创建有什么区别？](../../issues/55)
-- [Promise源码学习](../../issues/1)
 - [防抖和节流](../../issues/2)
 - [数组扁平化处理](../../issues/3)
 - [实现数组去重](../../issues/4)
@@ -34,6 +33,9 @@
 - this指向
     - [this的绑定规则、场景](../../issues/12)
     - [call,aplly和bind的区别及实现原理](../../issues/79)
+- Promise系列
+    - [Promise源码学习](../../issues/1)
+    - [使用Promise实现红绿灯交替重复亮](../../issues/46)
 - [for of , for in 和 forEach,map 的区别](../../issues/9)
 - [类数组和数组的区别](../../issues/10)
 - [原型](../../issues/52)
@@ -59,7 +61,6 @@
 - [10 个 Ajax 同时发起请求，全部返回展示结果，并且至多允许三次失败](../../issues/41)
 - [基于 Localstorage 设计一个 1M 的缓存系统，需要实现缓存淘汰机制](../../issues/42)
 - [空值合并运算符 '??'](https://zh.javascript.info/nullish-coalescing-operator)
-- [使用Promise实现红绿灯交替重复亮](../../issues/46)
 - [0.1 + 0.2不等于0.3](../../issues/17)
 
 > ## HTML
