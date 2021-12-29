@@ -31,10 +31,12 @@
     - [预编译、作用域与执行上下文](../../issues/28)
     - [作用域链](../../issues/77)
     - [闭包](../../issues/78)
+- this指向
+    - [this的绑定规则、场景](../../issues/12)
+    - [call,aplly和bind的区别及实现原理](../../issues/79)
 - [for of , for in 和 forEach,map 的区别](../../issues/9)
 - [类数组和数组的区别](../../issues/10)
 - [原型](../../issues/52)
-- [this指向](../../issues/12)
 - [LHS和RHS查询](../../issues/13)
 - [String() 与 new String() 的差异](../../issues/14)
 - [内存空间](../../issues/15)
