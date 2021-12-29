@@ -19,19 +19,19 @@
 - [实现数组去重](../../issues/4)
 - [可迭代对象](../../issues/5)
 - [实现跨域的方式](../../issues/6)
-类型转换
+- 类型转换
     - [undefined与null的区别](https://www.ruanyifeng.com/blog/2014/03/undefined-vs-null.html)
     - [== 和 === 区别](../../issues/11)
     - [Object.is() 与 ===、== 区别](../../issues/30)
     - [JS中原始类型有哪几种？null 是对象吗？原始数据类型和复杂数据类型有什么区别？](../../issues/43)
     - [类型转换规则](../../issues/23)
     - [typeof 、instanceof是否正确判断类型? instanceof 原理](../../issues/51)
-    - [让 (a == 1 && a == 2 && a == 3) 的值为true](../../issues/45)
-作用域、作用域链、预编译、执行上下文、闭包
+    - [让 (a == 1 && a == 2 && a == 3) 的值为true](../../issues/45)  
+- 作用域、作用域链、预编译、执行上下文、闭包
     - [预编译、作用域与执行上下文](../../issues/28)
     - [作用域链](../../issues/77)
-    - [闭包](../../issues/78)
-this指向
+    - [闭包](../../issues/78)  
+- this指向
     - [this的绑定规则、场景](../../issues/12)
     - [call,aplly和bind的区别及实现原理](../../issues/79)
 - [for of , for in 和 forEach,map 的区别](../../issues/9)
