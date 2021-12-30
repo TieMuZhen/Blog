@@ -36,8 +36,10 @@
 - Promise系列
     - [Promise源码学习](../../issues/1)
     - [使用Promise实现红绿灯交替重复亮](../../issues/46)
-- [for of , for in 和 forEach,map 的区别](../../issues/9)
-- [深拷贝和浅拷贝](../../issues/39)
+- 深拷贝和浅拷贝
+    - [for...in、Object.keys、Object.getOwnPropertyNames 之间区别](../../issues/40)
+    - [for of , for in 和 forEach,map 的区别](../../issues/9)
+    - [深拷贝和浅拷贝](../../issues/39)
 - [类数组和数组的区别](../../issues/10)
 - [原型](../../issues/52)
 - [LHS和RHS查询](../../issues/13)
@@ -57,7 +59,6 @@
 - [立即执行函数（IIFE）](../../issues/76)
 - [Proxy 与 Object.defineProperty区别](../../issues/29)
 - [反射机制](https://www.cnblogs.com/Leophen/p/14838608.html)[及Reflect](https://zhuanlan.zhihu.com/p/92700557)
-- [for...in、Object.keys、Object.getOwnPropertyNames 之间区别](../../issues/40)
 - [10 个 Ajax 同时发起请求，全部返回展示结果，并且至多允许三次失败](../../issues/41)
 - [基于 Localstorage 设计一个 1M 的缓存系统，需要实现缓存淘汰机制](../../issues/42)
 - [空值合并运算符 '??'](https://zh.javascript.info/nullish-coalescing-operator)
