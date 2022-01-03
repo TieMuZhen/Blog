@@ -40,6 +40,8 @@
     - [for...in、Object.keys、Object.getOwnPropertyNames 之间区别](../../issues/40)
     - [for of , for in 和 forEach,map 的区别](../../issues/9)
     - [深拷贝和浅拷贝](../../issues/39)
+- 懒加载
+    - [图片懒加载(lazyload)](../../issues/81)
 - [类数组和数组的区别](../../issues/10)
 - [原型](../../issues/52)
 - [LHS和RHS查询](../../issues/13)
