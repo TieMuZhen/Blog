@@ -21,6 +21,9 @@
     - [数组方法分类](../../issues/82)
     - [数组扁平化处理](../../issues/3)
     - [实现数组去重](../../issues/4)
+    - [for...in、Object.keys、Object.getOwnPropertyNames 之间区别](../../issues/40)
+    - [for of , for in 和 forEach,map 的区别](../../issues/9)
+    - [深拷贝和浅拷贝](../../issues/39)
 - 类型转换
     - [undefined与null的区别](https://www.ruanyifeng.com/blog/2014/03/undefined-vs-null.html)
     - [== 和 === 区别](../../issues/11)
@@ -39,10 +42,6 @@
 - Promise系列
     - [Promise源码学习](../../issues/1)
     - [使用Promise实现红绿灯交替重复亮](../../issues/46)
-- 深拷贝和浅拷贝
-    - [for...in、Object.keys、Object.getOwnPropertyNames 之间区别](../../issues/40)
-    - [for of , for in 和 forEach,map 的区别](../../issues/9)
-    - [深拷贝和浅拷贝](../../issues/39)
 - 懒加载
     - [图片懒加载(lazyload)](../../issues/81)
     - [路由按需加载（懒加载）的3种方式：vue异步组件require()、es提案的import()、webpack的require.ensure()](../../issues/62)
