@@ -17,6 +17,7 @@
 - [可迭代对象](../../issues/5)
 - [实现跨域的方式](../../issues/6)
 - 数组
+    - [类数组和数组的区别](../../issues/10)
     - [数组方法分类](../../issues/82)
     - [数组扁平化处理](../../issues/3)
     - [实现数组去重](../../issues/4)
@@ -45,7 +46,6 @@
 - 懒加载
     - [图片懒加载(lazyload)](../../issues/81)
     - [路由按需加载（懒加载）的3种方式：vue异步组件require()、es提案的import()、webpack的require.ensure()](../../issues/62)
-- [类数组和数组的区别](../../issues/10)
 - [原型](../../issues/52)
 - [LHS和RHS查询](../../issues/13)
 - [String() 与 new String() 的差异](../../issues/14)
