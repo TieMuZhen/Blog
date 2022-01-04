@@ -14,10 +14,11 @@
 - [继承的七种方式](../../issues/53)
 - [new的原理是什么？通过new的方式创建对象和通过字面量创建有什么区别？](../../issues/55)
 - [防抖和节流](../../issues/2)
-- [数组扁平化处理](../../issues/3)
-- [实现数组去重](../../issues/4)
 - [可迭代对象](../../issues/5)
 - [实现跨域的方式](../../issues/6)
+- 数组
+    - [数组扁平化处理](../../issues/3)
+    - [实现数组去重](../../issues/4)
 - 类型转换
     - [undefined与null的区别](https://www.ruanyifeng.com/blog/2014/03/undefined-vs-null.html)
     - [== 和 === 区别](../../issues/11)
