@@ -42,6 +42,7 @@
     - [深拷贝和浅拷贝](../../issues/39)
 - 懒加载
     - [图片懒加载(lazyload)](../../issues/81)
+    - [路由按需加载（懒加载）的3种方式：vue异步组件require()、es提案的import()、webpack的require.ensure()](../../issues/62)
 - [类数组和数组的区别](../../issues/10)
 - [原型](../../issues/52)
 - [LHS和RHS查询](../../issues/13)
