@@ -65,7 +65,7 @@
 - [async / await](../../issues/21)
 - [requestAnimationFrame 和 setTimeout/setInterval 区别](../../issues/22)
 - [模块化：ES6、Commond、AMD、CMD](../../issues/24)
-- [浏览器事件代理机制的原理](../../issues/25)
+- [浏览器事件代理机制：捕获、冒泡](../../issues/25)
 - [跨页面通信](https://juejin.cn/post/6844903811232825357#heading-3)
 - [自定义事件](../../issues/26)
 - [js异步加载方式](../../issues/27)
