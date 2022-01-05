@@ -48,6 +48,9 @@
 - 懒加载
     - [图片懒加载(lazyload)](../../issues/81)
     - [路由按需加载（懒加载）的3种方式：vue异步组件require()、es提案的import()、webpack的require.ensure()](../../issues/62)
+- 代理拦截
+    - [Proxy 与 Object.defineProperty区别](../../issues/29)
+    - [反射机制](https://www.cnblogs.com/Leophen/p/14838608.html)[及Reflect](https://zhuanlan.zhihu.com/p/92700557)
 - 二进制
     - [Blob、ArrayBuffer和Buffer](https://juejin.cn/post/6992205283732766750)
 - 存储
@@ -67,8 +70,6 @@
 - [自定义事件](../../issues/26)
 - [js异步加载方式](../../issues/27)
 - [立即执行函数（IIFE）](../../issues/76)
-- [Proxy 与 Object.defineProperty区别](../../issues/29)
-- [反射机制](https://www.cnblogs.com/Leophen/p/14838608.html)[及Reflect](https://zhuanlan.zhihu.com/p/92700557)
 - [10 个 Ajax 同时发起请求，全部返回展示结果，并且至多允许三次失败](../../issues/41)
 - [空值合并运算符 '??'](https://zh.javascript.info/nullish-coalescing-operator)
 - [0.1 + 0.2不等于0.3](../../issues/17)
