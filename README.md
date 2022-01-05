@@ -50,8 +50,9 @@
     - [路由按需加载（懒加载）的3种方式：vue异步组件require()、es提案的import()、webpack的require.ensure()](../../issues/62)
 - 二进制
     - [Blob、ArrayBuffer和Buffer](https://juejin.cn/post/6992205283732766750)
-
-- [LHS和RHS查询](../../issues/13)
+- 存储
+    - [LHS和RHS查询](../../issues/13)
+    - [基于 Localstorage 设计一个 1M 的缓存系统，需要实现缓存淘汰机制](../../issues/42)
 - [String() 与 new String() 的差异](../../issues/14)
 - [内存空间](../../issues/15)
 - [4类常见内存泄漏及如何避免](../../issues/16)
@@ -68,7 +69,6 @@
 - [Proxy 与 Object.defineProperty区别](../../issues/29)
 - [反射机制](https://www.cnblogs.com/Leophen/p/14838608.html)[及Reflect](https://zhuanlan.zhihu.com/p/92700557)
 - [10 个 Ajax 同时发起请求，全部返回展示结果，并且至多允许三次失败](../../issues/41)
-- [基于 Localstorage 设计一个 1M 的缓存系统，需要实现缓存淘汰机制](../../issues/42)
 - [空值合并运算符 '??'](https://zh.javascript.info/nullish-coalescing-operator)
 - [0.1 + 0.2不等于0.3](../../issues/17)
 
