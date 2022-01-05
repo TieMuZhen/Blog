@@ -11,7 +11,6 @@
 > ## Javascript
 
 - [var、let、const三者区别](https://juejin.cn/post/6925641096152399880)
-- [继承的七种方式](../../issues/53)
 - [new的原理是什么？通过new的方式创建对象和通过字面量创建有什么区别？](../../issues/55)
 - [防抖和节流](../../issues/2)
 - [可迭代对象](../../issues/5)
@@ -39,9 +38,10 @@
 - this指向
     - [this的绑定规则、场景](../../issues/12)
     - [call,aplly和bind的区别及实现原理](../../issues/79)
-- 原型、原型链
+- 原型、原型链、继承
     - [原型](../../issues/52)
     - [原型链解决的是什么问题？prototype 和__proto__区别是什么？](../../issues/19)
+    - [继承的七种方式](../../issues/53)
 - Promise系列
     - [Promise源码学习](../../issues/1)
     - [使用Promise实现红绿灯交替重复亮](../../issues/46)
