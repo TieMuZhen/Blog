@@ -39,19 +39,23 @@
 - this指向
     - [this的绑定规则、场景](../../issues/12)
     - [call,aplly和bind的区别及实现原理](../../issues/79)
+- 原型、原型链
+    - [原型](../../issues/52)
+    - [原型链解决的是什么问题？prototype 和__proto__区别是什么？](../../issues/19)
 - Promise系列
     - [Promise源码学习](../../issues/1)
     - [使用Promise实现红绿灯交替重复亮](../../issues/46)
 - 懒加载
     - [图片懒加载(lazyload)](../../issues/81)
     - [路由按需加载（懒加载）的3种方式：vue异步组件require()、es提案的import()、webpack的require.ensure()](../../issues/62)
-- [原型](../../issues/52)
+- 二进制
+    - [Blob、ArrayBuffer和Buffer](https://juejin.cn/post/6992205283732766750)
+
 - [LHS和RHS查询](../../issues/13)
 - [String() 与 new String() 的差异](../../issues/14)
 - [内存空间](../../issues/15)
 - [4类常见内存泄漏及如何避免](../../issues/16)
 - [如何处理十万级别的大量数据 ？](../../issues/18)
-- [原型链解决的是什么问题？prototype 和__proto__区别是什么？](../../issues/19)
 - [ES6新的特性](../../issues/20)
 - [async / await](../../issues/21)
 - [requestAnimationFrame 和 setTimeout/setInterval 区别](../../issues/22)
