@@ -130,6 +130,7 @@
 - [观察者模式与发布订阅模式](../../issues/61)
 
 > ## Vue
+- [Vue2.0和Vue3.0的区别](../../issues/69)
 - [Vue中的diff算法](../../issues/71)
 - [Vue生命周期](../../issues/65)；[父子组件、兄弟组件、宏mixins组件生命周期](https://juejin.cn/post/6844903602356502542)
 - [Vue 组件为何采用异步渲染-nextTick的实现原理](https://juejin.cn/post/6899822303022956552)
@@ -144,7 +145,6 @@
 - [为什么避免 v-if 和 v-for 一起用](../../issues/70)
 - [Vue 动态绑定样式的方式](../../issues/67)
 - [Vue 插槽(slot)](https://juejin.cn/post/6844903920037281805)
-- [Vue2.0和Vue3.0的区别](../../issues/69)
 - [Vuex 简单介绍](../../issues/63)
 - [Vue中keep-alive](https://juejin.cn/post/6844903918313406472)
 - [Vue动态组件实现tab页切换](https://segmentfault.com/a/1190000018018502)
