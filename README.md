@@ -146,9 +146,9 @@
 - [为什么避免 v-if 和 v-for 一起用](../../issues/70)
 - [Vue 动态绑定样式的方式](../../issues/67)
 - [Vue 插槽(slot)](https://juejin.cn/post/6844903920037281805)
-- [Vuex 简单介绍](../../issues/63)
 - [Vue中keep-alive](https://juejin.cn/post/6844903918313406472)
 - [Vue动态组件实现tab页切换](https://segmentfault.com/a/1190000018018502)
+- [Vuex 简单介绍](../../issues/63)
 
 > ## Node
 - [Node 定时器、Event Loop详解](http://www.ruanyifeng.com/blog/2018/02/node-event-loop.html)
