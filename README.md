@@ -136,7 +136,8 @@
 - [Vue生命周期](../../issues/65)；[父子组件、兄弟组件、宏mixins组件生命周期](https://juejin.cn/post/6844903602356502542)
 - [Vue 组件为何采用异步渲染-nextTick的实现原理](https://juejin.cn/post/6899822303022956552)
 - [Mixins （混入）](https://segmentfault.com/a/1190000015698391)
-- [数据响应(数据劫持)](../../issues/58)
+- 双向绑定原理
+    - [数据响应(数据劫持)](../../issues/58)
 - [vue中8种组件通信方式](https://juejin.cn/post/6844903887162310669)
 - [vue-router](../../issues/38)
 - [按需加载的3种方式：vue异步组件require()、es提案的import()、webpack的require.ensure()](../../issues/62)
