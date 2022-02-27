@@ -132,6 +132,7 @@
 > ## Vue
 - [MVC、MVP、MVVM的区别](https://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html)
 - [Vue2.0和Vue3.0的区别](../../issues/69)
+- [watch和computed的区别](../../issues/84)
 - [Vue中的diff算法](../../issues/71)
 - [Vue生命周期](../../issues/65)；[父子组件、兄弟组件、宏mixins组件生命周期](https://juejin.cn/post/6844903602356502542)
 - [Vue 组件为何采用异步渲染-nextTick的实现原理](https://juejin.cn/post/6899822303022956552)
