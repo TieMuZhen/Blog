@@ -110,6 +110,8 @@
 - [Session、Cookie、Token区别](https://juejin.cn/post/6844904115080790023)、[分布式Session一致性的4种解决方案](https://segmentfault.com/a/1190000022404396)
 - [ajax、axios、fetch对比](https://zhuanlan.zhihu.com/p/58062212)
 - [Axios 详解](https://juejin.cn/post/6863745313711226887)
+#### 缓存
+- [彻底理解浏览器的缓存机制](https://juejin.cn/post/6844903593275817998)
 - [图解 Http 缓存控制之 max-age=0、no-cache、no-store 区别](https://zhuanlan.zhihu.com/p/55623075)
 
 > ## 浏览器
@@ -121,8 +123,6 @@
 #### JS执行机制
 - [事件循环EvenLoop](../../issues/31)
 - [从浏览器多进程到JS单线程](https://segmentfault.com/a/1190000012925872)
-#### 缓存
-- [彻底理解浏览器的缓存机制](https://juejin.cn/post/6844903593275817998)
 #### 整体流程
 - [从输入 URL 到页面加载完成的过程中都发生了什么事情？](https://fex.baidu.com/blog/2014/05/what-happen/)
 - [当你在浏览器中输入 google.com 并且按下回车之后发生了什么？](https://github.com/skyline75489/what-happens-when-zh_CN)
