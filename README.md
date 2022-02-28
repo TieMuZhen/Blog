@@ -73,6 +73,7 @@
 - [10 个 Ajax 同时发起请求，全部返回展示结果，并且至多允许三次失败](../../issues/41)
 - [空值合并运算符 '??'](https://zh.javascript.info/nullish-coalescing-operator)
 - [0.1 + 0.2不等于0.3](../../issues/17)
+- [JS文件：读取与拖拽、转换bsae64、预览、FormData上传、七牛上传、分割文件](https://github.com/amandakelake/blog/issues/40)
 
 > ## HTML
 - [对HTML5语义化的理解](../../issues/44)
