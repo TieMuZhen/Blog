@@ -146,7 +146,7 @@
 - [为什么data属性是一个函数而不是一个对象？](../../issues/91)
 - [动态给vue的data添加一个新的属性时界面不刷新？怎样解决？](https://vue3js.cn/interview/vue/data_object_add_attrs.html#%E4%B8%80%E3%80%81%E7%9B%B4%E6%8E%A5%E6%B7%BB%E5%8A%A0%E5%B1%9E%E6%80%A7%E7%9A%84%E9%97%AE%E9%A2%98)
 - [Vue 组件为何采用异步渲染-nextTick的实现原理](https://juejin.cn/post/6899822303022956552)
-- [Mixins（混入）](https://segmentfault.com/a/1190000015698391)
+- [Mixins（混入）](https://segmentfault.com/a/1190000015698391)[及源码分析](https://vue3js.cn/interview/vue/mixin.html#%E4%B8%80%E3%80%81mixin%E6%98%AF%E4%BB%80%E4%B9%88)
 - 双向绑定原理
     - [数据响应(数据劫持)](../../issues/58)
 - [vue中8种组件通信方式](https://juejin.cn/post/6844903887162310669)
