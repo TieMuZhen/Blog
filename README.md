@@ -157,7 +157,7 @@
 - [为什么使用key](../../issues/66)
 - [为什么避免 v-if 和 v-for 一起用](../../issues/70)
 - [Vue 动态绑定样式的方式](../../issues/67)
-- [Vue 插槽(slot)](https://juejin.cn/post/6844903920037281805)
+- [Vue 插槽(slot)](https://vue3js.cn/interview/vue/slot.html)
 - [Vue中keep-alive](https://juejin.cn/post/6844903918313406472)
 - [Vue动态组件实现tab页切换](https://segmentfault.com/a/1190000018018502)
 - [Vuex 简单介绍](../../issues/63)
