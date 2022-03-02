@@ -153,7 +153,7 @@
 - [vue-router](../../issues/38)
 - [按需加载的3种方式：vue异步组件require()、es提案的import()、webpack的require.ensure()](../../issues/62)
 - [插件 Vue.use(plugin) 的原理和使用](../../issues/64)
-- [Vue 自定义指令Vue.directive、directives](https://shq5785.blog.csdn.net/article/details/103874164)
+- [Vue 自定义指令Vue.directive](https://github.com/febobo/web-interview/issues/21)
 - [为什么使用key](../../issues/66)
 - [为什么避免 v-if 和 v-for 一起用](../../issues/70)
 - [Vue 动态绑定样式的方式](../../issues/67)
