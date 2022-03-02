@@ -109,7 +109,7 @@
 - [HTTP/0.9、HTTP/1.0、HTTP/1.1、HTTP/2、HTTP/3、websocket之间的区别](../../issues/57)
 - [Session、Cookie、Token、JWT区别](https://juejin.cn/post/6844904115080790023)、[分布式Session一致性的4种解决方案](https://segmentfault.com/a/1190000022404396)
 - [ajax、axios、fetch对比](https://zhuanlan.zhihu.com/p/58062212)
-- [Axios 详解](https://juejin.cn/post/6863745313711226887)
+- [封装Axios](https://github.com/febobo/web-interview/issues/25)
 - [HTTPS](https://segmentfault.com/a/1190000021494676)
 #### 缓存
 - [彻底理解浏览器的缓存机制](https://juejin.cn/post/6844903593275817998)
