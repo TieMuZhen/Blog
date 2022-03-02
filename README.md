@@ -141,6 +141,7 @@
 - [Vue2.0和Vue3.0的区别](../../issues/69)
 - [v-if和v-show的区别](../../issues/85)
 - [watch和computed的区别](../../issues/84)
+- [Vue过滤器](../../issues/93)
 - [Vue中的diff算法](../../issues/71)
 - [Vue生命周期](../../issues/65)；[父子组件、兄弟组件、宏mixins组件生命周期](https://juejin.cn/post/6844903602356502542)
 - [为什么data属性是一个函数而不是一个对象？](../../issues/91)
