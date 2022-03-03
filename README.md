@@ -165,7 +165,7 @@
 - [Vue动态组件实现tab页切换](https://segmentfault.com/a/1190000018018502)
 - Vue3.0
     - [Vue2.0和Vue3.0的区别](../../issues/69) 
-    - [Vue3.0 所采用的 Composition Api 与 Vue2.x 使用的 Options Api 有什么不同？](https://github.com/febobo/web-interview/issues/48)
+    - [Vue3.0 所采用的 Composition Api 与 Vue2.x 使用的 Options Api 有什么不同？](https://juejin.cn/post/6844904066103902215)
 - [Vuex 简单介绍](../../issues/63)
 
 > ## Node
