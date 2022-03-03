@@ -162,6 +162,7 @@
 - [Vue 动态绑定样式的方式](../../issues/67)
 - [Vue 插槽(slot)](https://github.com/febobo/web-interview/issues/16)
 - [keep-alive缓存组件](https://juejin.cn/post/6844903918313406472)[、keep-alive缓存后怎么更新](../../issues/92)
+- [Vue自定义模态框](../../issues/95)
 - [Vue动态组件实现tab页切换](https://segmentfault.com/a/1190000018018502)
 - Vue3.0
     - [Vue2.0和Vue3.0的区别](../../issues/69) 
