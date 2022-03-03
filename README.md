@@ -147,6 +147,7 @@
 - [为什么data属性是一个函数而不是一个对象？](../../issues/91)
 - [动态给vue的data添加一个新的属性时界面不刷新？怎样解决？](https://github.com/febobo/web-interview/issues/10)
 - [Vue的SEO优化方案](../../issues/94)
+- [hash 和 history 模式](https://zhuanlan.zhihu.com/p/130995492)
 - [Vue要做权限管理该怎么做？控制到按钮级别的权限怎么做？](https://github.com/febobo/web-interview/issues/29)
 - [Vue 组件为何采用异步渲染-nextTick的实现原理](https://juejin.cn/post/6899822303022956552)
 - [Mixins（混入）](https://segmentfault.com/a/1190000015698391)[及源码分析](https://github.com/febobo/web-interview/issues/15)
