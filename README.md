@@ -11,6 +11,7 @@
 > ## Javascript
 
 - [var、let、const三者区别](https://juejin.cn/post/6925641096152399880)
+- [ES6中的 Decorator](../../issues/96)
 - [new的原理是什么？通过new的方式创建对象和通过字面量创建有什么区别？](../../issues/55)
 - [防抖和节流](../../issues/2)
 - [可迭代对象](../../issues/5)
