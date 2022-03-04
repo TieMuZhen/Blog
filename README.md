@@ -65,6 +65,7 @@
 - [ES6新的特性](../../issues/20)
 - [async / await](../../issues/21)
 - [requestAnimationFrame 和 setTimeout/setInterval 区别](../../issues/22)
+- [事件循环EvenLoop](../../issues/31)
 - [模块化：ES6、Commond、AMD、CMD](../../issues/24)
 - [浏览器事件代理机制：捕获、冒泡](../../issues/25)
 - [跨页面通信](https://juejin.cn/post/6844903811232825357#heading-3)
@@ -123,7 +124,6 @@
 - [浏览器的渲染原理](https://coolshell.cn/articles/9666.html)
 - [回流与重绘 (Reflow & Repaint)](https://juejin.cn/post/6844903569087266823)
 #### JS执行机制
-- [事件循环EvenLoop](../../issues/31)
 - [从浏览器多进程到JS单线程](https://segmentfault.com/a/1190000012925872)
 #### 整体流程
 - [从输入 URL 到页面加载完成的过程中都发生了什么事情？](https://fex.baidu.com/blog/2014/05/what-happen/)
