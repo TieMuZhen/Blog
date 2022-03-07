@@ -131,7 +131,7 @@
 - [从输入 URL 到页面加载完成的过程中都发生了什么事情？](https://fex.baidu.com/blog/2014/05/what-happen/)
 - [当你在浏览器中输入 google.com 并且按下回车之后发生了什么？](https://github.com/skyline75489/what-happens-when-zh_CN)
 #### 浏览器安全
-- [Web 安全](https://segmentfault.com/a/1190000023396707)
+- [Web 安全](https://segmentfault.com/a/1190000023396707)、[如何防止CSRF攻击？](https://tech.meituan.com/2018/10/11/fe-security-csrf.html)
 #### 垃圾回收
 - [V8垃圾回收机制、内存泄露](../../issues/56)
 
