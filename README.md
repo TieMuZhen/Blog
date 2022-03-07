@@ -89,6 +89,7 @@
 > ## CSS
 - [盒模型与box-sizing](https://github.com/febobo/web-interview/issues/93)
 - [px、em、rem、vh、vw区别](../../issues/98) 
+- [设备像素、css像素、设备独立像素、dpr、ppi 之间的区别](../../issues/99)
 - [link和@import的区别](../../issues/48) 
 - [link为什么要放在body前](https://zhuanlan.zhihu.com/p/46387951)
 - [display、visibility、opacity、position隐藏元素的区别](../../issues/75)
