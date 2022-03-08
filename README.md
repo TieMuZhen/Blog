@@ -100,7 +100,7 @@
 - [Grid vs Flex](https://zhuanlan.zhihu.com/p/46757975)
 - [BFC、IFC、margin塌陷、margin合并](../../issues/47)
 - [清除浮动](../../issues/50)
-- [响应式布局](../../issues/32)
+- [响应式布局及经典多栏布局案例](../../issues/32)
 - [样式的继承性和权重计算](../../issues/33)
 - [元素居中显示](../../issues/36)
 - [transition、transform、animation三种方式实现css动画](../../issues/100)
