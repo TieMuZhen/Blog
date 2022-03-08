@@ -87,24 +87,27 @@
 - [disabled和readonly的区别](../../issues/72)
 
 > ## CSS
-- [盒模型与box-sizing](https://github.com/febobo/web-interview/issues/93)
+- 盒模型
+  - [盒模型与box-sizing](https://github.com/febobo/web-interview/issues/93)
+  - [BFC、IFC、margin塌陷、margin合并](../../issues/47)
 - [px、em、rem、vh、vw区别](../../issues/98) 
 - [设备像素、css像素、设备独立像素、dpr、ppi 之间的区别](../../issues/99)
-- [link和@import的区别](../../issues/48) 
-- [link为什么要放在body前](https://zhuanlan.zhihu.com/p/46387951)
 - [display、visibility、opacity、position隐藏元素的区别](../../issues/75)
 - [块级元素和行内元素及其区别](../../issues/73)
-- [inline、block、inline-block和float区别](../../issues/37) 
+- [inline、block、inline-block和float区别](../../issues/37)
+- [样式的继承性和权重计算](../../issues/33) 
 - [position的五个属性值](https://www.ruanyifeng.com/blog/2019/11/css-position.html)
 - [margin-left: auto元素右对齐以及margin: 0 auto水平居中的原理](../../issues/74)
-- [Grid vs Flex](https://zhuanlan.zhihu.com/p/46757975)
-- [BFC、IFC、margin塌陷、margin合并](../../issues/47)
 - [清除浮动](../../issues/50)
-- [响应式布局及经典多栏布局案例](../../issues/32)
-- [样式的继承性和权重计算](../../issues/33)
+- 响应式
+  - [响应式布局及经典多栏布局案例](../../issues/32)
+  - [Grid vs Flex](https://zhuanlan.zhihu.com/p/46757975)
 - [元素居中显示](../../issues/36)
 - [transition、transform、animation三种方式实现css动画](../../issues/100)
-- [如何优化CSS来提高性能](../../issues/102)
+- 性能优化
+  - [如何优化CSS来提高性能](../../issues/102)
+  - [link和@import的区别](../../issues/48) 
+  - [link为什么要放在body前](https://zhuanlan.zhihu.com/p/46387951)
 - [less基本知识](../../issues/34) 
 
 > ## 计算机网络
@@ -119,25 +122,25 @@
 - [ajax、axios、fetch对比](https://zhuanlan.zhihu.com/p/58062212)
 - [封装Axios](https://github.com/febobo/web-interview/issues/25)
 - [HTTPS](https://segmentfault.com/a/1190000021494676)
-#### 缓存
-- [彻底理解浏览器的缓存机制](https://juejin.cn/post/6844903593275817998)
-- [图解 Http 缓存控制之 max-age=0、no-cache、no-store 区别](https://zhuanlan.zhihu.com/p/55623075)
+- 缓存
+  - [彻底理解浏览器的缓存机制](https://juejin.cn/post/6844903593275817998)
+  - [图解 Http 缓存控制之 max-age=0、no-cache、no-store 区别](https://zhuanlan.zhihu.com/p/55623075)
 
 > ## 浏览器
-#### 架构
-- [浏览器架构，共四部分](https://cloud.tencent.com/developer/article/1806716)
-#### 渲染
-- [浏览器的渲染原理](https://coolshell.cn/articles/9666.html)
-- [回流与重绘 (Reflow & Repaint)](../../issues/101)
-#### JS执行机制
-- [从浏览器多进程到JS单线程](https://segmentfault.com/a/1190000012925872)
-#### 整体流程
-- [从输入 URL 到页面加载完成的过程中都发生了什么事情？](https://fex.baidu.com/blog/2014/05/what-happen/)
-- [当你在浏览器中输入 google.com 并且按下回车之后发生了什么？](https://github.com/skyline75489/what-happens-when-zh_CN)
-#### 浏览器安全
-- [Web 安全](https://segmentfault.com/a/1190000023396707)、[如何防止CSRF攻击？](https://tech.meituan.com/2018/10/11/fe-security-csrf.html)
-#### 垃圾回收
-- [V8垃圾回收机制、内存泄露](../../issues/56)
+- 架构
+  - [浏览器架构，共四部分](https://cloud.tencent.com/developer/article/1806716)
+-  渲染
+  - [浏览器的渲染原理](https://coolshell.cn/articles/9666.html)
+  - [回流与重绘 (Reflow & Repaint)](../../issues/101)
+- JS执行机制
+  - [从浏览器多进程到JS单线程](https://segmentfault.com/a/1190000012925872)
+- 整体流程
+  - [从输入 URL 到页面加载完成的过程中都发生了什么事情？](https://fex.baidu.com/blog/2014/05/what-happen/)
+  - [当你在浏览器中输入 google.com 并且按下回车之后发生了什么？](https://github.com/skyline75489/what-happens-when-zh_CN)
+- 浏览器安全
+  - [Web 安全](https://segmentfault.com/a/1190000023396707)、[如何防止CSRF攻击？](https://tech.meituan.com/2018/10/11/fe-security-csrf.html)
+- 垃圾回收
+  - [V8垃圾回收机制、内存泄露](../../issues/56)
 
 > ## 设计模式
 - [工厂模式、构造函数模式、寄生构造函数模式、稳妥构造函数模式](../../issues/54)
