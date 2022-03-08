@@ -87,27 +87,28 @@
 - [disabled和readonly的区别](../../issues/72)
 
 > ## CSS
+- [px、em、rem、vh、vw区别](../../issues/98) 
+- [设备像素、css像素、设备独立像素、dpr、ppi 之间的区别](../../issues/99)
 - 盒模型
   - [盒模型与box-sizing](https://github.com/febobo/web-interview/issues/93)
   - [BFC、IFC、margin塌陷、margin合并](../../issues/47)
-- [px、em、rem、vh、vw区别](../../issues/98) 
-- [设备像素、css像素、设备独立像素、dpr、ppi 之间的区别](../../issues/99)
+  - [清除浮动](../../issues/50)
+- [样式的继承性和权重计算](../../issues/33) 
 - [display、visibility、opacity、position隐藏元素的区别](../../issues/75)
 - [块级元素和行内元素及其区别](../../issues/73)
 - [inline、block、inline-block和float区别](../../issues/37)
-- [样式的继承性和权重计算](../../issues/33) 
 - [position的五个属性值](https://www.ruanyifeng.com/blog/2019/11/css-position.html)
-- [margin-left: auto元素右对齐以及margin: 0 auto水平居中的原理](../../issues/74)
-- [清除浮动](../../issues/50)
 - 响应式
   - [响应式布局及经典多栏布局案例](../../issues/32)
   - [Grid vs Flex](https://zhuanlan.zhihu.com/p/46757975)
-- [元素居中显示](../../issues/36)
-- [transition、transform、animation三种方式实现css动画](../../issues/100)
+- 元素居中
+  - [元素居中显示](../../issues/36)
+  - [margin-left: auto元素右对齐以及margin: 0 auto水平居中的原理](../../issues/74)
 - 性能优化
   - [如何优化CSS来提高性能](../../issues/102)
   - [link和@import的区别](../../issues/48) 
   - [link为什么要放在body前](https://zhuanlan.zhihu.com/p/46387951)
+- [transition、transform、animation三种方式实现css动画](../../issues/100)
 - [less基本知识](../../issues/34) 
 
 > ## 计算机网络
