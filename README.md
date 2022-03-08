@@ -102,7 +102,8 @@
 - [清除浮动](../../issues/50)
 - [响应式布局](../../issues/32)
 - [样式的继承性和权重计算](../../issues/33)
-- [元素居中显示](../../issues/36) 
+- [元素居中显示](../../issues/36)
+- [transition、transform、animation三种方式实现css动画](../../issues/100)
 - [less基本知识](../../issues/34) 
 
 > ## 计算机网络
