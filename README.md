@@ -127,7 +127,7 @@
 - [浏览器架构，共四部分](https://cloud.tencent.com/developer/article/1806716)
 #### 渲染
 - [浏览器的渲染原理](https://coolshell.cn/articles/9666.html)
-- [回流与重绘 (Reflow & Repaint)](https://juejin.cn/post/6844903569087266823)
+- [回流与重绘 (Reflow & Repaint)](../../issues/101)
 #### JS执行机制
 - [从浏览器多进程到JS单线程](https://segmentfault.com/a/1190000012925872)
 #### 整体流程
