@@ -72,6 +72,7 @@
 - [自定义事件](../../issues/26)
 - [js异步加载方式](../../issues/27)
 - [立即执行函数（IIFE）](../../issues/76)
+- [Commonjs 和 Es Module](https://juejin.cn/post/6994224541312483336)
 - [10 个 Ajax 同时发起请求，全部返回展示结果，并且至多允许三次失败](../../issues/41)
 - [空值合并运算符 '??'](https://zh.javascript.info/nullish-coalescing-operator)
 - [0.1 + 0.2不等于0.3？精度丢失问题](../../issues/17)
