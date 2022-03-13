@@ -114,7 +114,7 @@
   - [less基本知识](../../issues/34) 
 
 > ## 计算机网络
-- [网络模型及其每层有哪些协议](../../issues/86)
+- [OSI七层模型及其每层有哪些协议](../../issues/86)
 - [HTTP/0.9、HTTP/1.0、HTTP/1.1、HTTP/2、HTTP/3、websocket之间的区别，HTTP 和 HTTPS 的区别](../../issues/57)
 - [HTTPS](https://segmentfault.com/a/1190000021494676)
 - [HTTP 常见的状态码和适用场景](../../issues/87)
