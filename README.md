@@ -115,16 +115,16 @@
 
 > ## 计算机网络
 - [网络模型及其每层有哪些协议](../../issues/86)
+- [HTTP/0.9、HTTP/1.0、HTTP/1.1、HTTP/2、HTTP/3、websocket之间的区别](../../issues/57)
+- [HTTPS](https://segmentfault.com/a/1190000021494676)
 - [HTTP 常见的状态码和适用场景](../../issues/87)
+- [HTTP headers和HTTP request methods](../../issues/7)
 - [TCP、UDP的区别，TCP如何实现可靠传输，UDP如何改进实现可靠传输](../../issues/88)
 - [三次握手、四次挥手及其涉及的相关问题](https://juejin.cn/post/6844903958624878606)
 - [简单请求、复杂请求、预检请求](https://github.com/amandakelake/blog/issues/62)
-- [HTTP headers和HTTP request methods](../../issues/7)
-- [HTTP/0.9、HTTP/1.0、HTTP/1.1、HTTP/2、HTTP/3、websocket之间的区别](../../issues/57)
 - [Session、Cookie、Token、JWT区别](https://juejin.cn/post/6844904115080790023)、[分布式Session一致性的4种解决方案](https://segmentfault.com/a/1190000022404396)
 - [ajax、axios、fetch对比](https://zhuanlan.zhihu.com/p/58062212)
 - [封装Axios](https://github.com/febobo/web-interview/issues/25)
-- [HTTPS](https://segmentfault.com/a/1190000021494676)
 - 缓存
   - [彻底理解浏览器的缓存机制](https://juejin.cn/post/6844903593275817998)
   - [图解 Http 缓存控制之 max-age=0、no-cache、no-store 区别](https://zhuanlan.zhihu.com/p/55623075)
