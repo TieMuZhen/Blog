@@ -202,6 +202,7 @@
 - [webpack proxy工作原理？为什么能解决跨域?](../../issues/104)
 - [Loader](../../issues/35)
 - [source map是什么？生产环境怎么用？](../../issues/108)
+- [文件指纹策略](../../issues/112)
 - [文件监听原理](../../issues/110)
 - [Webpack 的热更新原理](../../issues/107)
 - [如何对bundle体积进行监控和分析？](../../issues/111)
