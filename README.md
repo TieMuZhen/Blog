@@ -201,6 +201,7 @@
 - [webpack的构建流程](../../issues/103)
 - [webpack proxy工作原理？为什么能解决跨域?](../../issues/104)
 - [Loader](../../issues/35)
+- [如何保证各个loader按照预想方式工作？](../../issues/113)
 - [source map是什么？生产环境怎么用？](../../issues/108)
 - [文件指纹策略](../../issues/112)
 - [文件监听原理](../../issues/110)
