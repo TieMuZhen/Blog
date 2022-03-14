@@ -118,6 +118,7 @@
 - [如何理解TCP/IP协议?](../../issues/114)
 - [DNS协议是什么？说说DNS完整的查询过程?](../../issues/115)
 - [如何理解CDN？说说实现原理？](../../issues/116)
+- [从输入 URL 到页面加载完成的过程中都发生了什么事情？](../../issues/117)
 - [HTTP/0.9、HTTP/1.0、HTTP/1.1、HTTP/2、HTTP/3、websocket之间的区别，HTTP 和 HTTPS 的区别](../../issues/57)
 - [HTTPS](https://segmentfault.com/a/1190000021494676)
 - [HTTP 常见的状态码和适用场景](../../issues/87)
@@ -141,7 +142,6 @@
 - JS执行机制
   - [从浏览器多进程到JS单线程](https://segmentfault.com/a/1190000012925872)
 - 整体流程
-  - [从输入 URL 到页面加载完成的过程中都发生了什么事情？](https://fex.baidu.com/blog/2014/05/what-happen/)
   - [当你在浏览器中输入 google.com 并且按下回车之后发生了什么？](https://github.com/skyline75489/what-happens-when-zh_CN)
 - 浏览器安全
   - [Web 安全](https://segmentfault.com/a/1190000023396707)、[如何防止CSRF攻击？](https://tech.meituan.com/2018/10/11/fe-security-csrf.html)
