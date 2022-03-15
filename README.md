@@ -196,9 +196,6 @@
 - [PM2实用入门指南](https://www.cnblogs.com/chyingp/p/pm2-documentation.html)
 - [Node.js 与 log4js](https://zhuanlan.zhihu.com/p/22110802)
 
-> ## Koa
-- [Koa与Express的区别](https://segmentfault.com/a/1190000024541526)
-
 > ## Babel
 - [Babel快速上手使用指南](https://juejin.cn/post/6844903858632654856)
 - [Babel原理及插件开发](https://juejin.cn/post/6844903603983892487)
