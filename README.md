@@ -220,6 +220,7 @@
 - npm
   - [npm和yarn的区别](../../issues/125)
   - [npm 安装时 --save --dev 和 --save 区别](../../issues/126)
+  - [npm init 和 npm install执行了哪些操作](../../issues/127)
 
 > ## TypeScript
 - [TypeScript 入门教程](https://ts.xcatliu.com/)
