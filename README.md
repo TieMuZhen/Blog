@@ -56,6 +56,7 @@
     - [前端存储之 cookie、localStorage、sessionStorage 和 indexedDB](../../issues/83)
     - [LHS和RHS查询](../../issues/13)
     - [基于 Localstorage 设计一个 1M 的缓存系统，需要实现缓存淘汰机制](../../issues/42)
+- [颜色的十进制与十六进制互转（正则）](../../issues/129)
 - [防抖和节流](../../issues/2)
 - [可迭代对象](../../issues/5)
 - [实现跨域的方式](../../issues/6)
