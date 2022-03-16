@@ -258,6 +258,9 @@
 - [Swagger API规范](https://swagger.io/)
 - [Jenkins 持续集成](https://www.jenkins.io/zh/doc/pipeline/tour/getting-started/)
 
+> ## 算法
+- [快速幂](../../issues/130)
+
 > ## 其它
 - [MockingBird 只要5秒的原始讲话录音，就能克隆该声音，让它说出任意给定文本](https://github.com/babysor/MockingBird/blob/main/README-CN.md)
 - [web前端面试](https://vue3js.cn/interview/)
