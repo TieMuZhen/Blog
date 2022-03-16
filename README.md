@@ -217,7 +217,8 @@
 - [代码分割和公共代码提取](https://segmentfault.com/a/1190000021074403)
 - [如何使用webpack优化前端性能](../../issues/105)
 - [如何提高webpack的构建速度](../../issues/106)
-- [npm和yarn的区别](../../issues/125)
+- npm
+  - [npm和yarn的区别](../../issues/125)
 
 > ## TypeScript
 - [TypeScript 入门教程](https://ts.xcatliu.com/)
