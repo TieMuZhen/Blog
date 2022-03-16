@@ -11,11 +11,9 @@
 > ## Javascript
 
 - [var、let、const三者区别](https://juejin.cn/post/6925641096152399880)
+- [ES6的解构赋值](../../issues/128)
 - [ES6中的 Decorator](../../issues/96)
 - [new的原理是什么？通过new的方式创建对象和通过字面量创建有什么区别？](../../issues/55)
-- [防抖和节流](../../issues/2)
-- [可迭代对象](../../issues/5)
-- [实现跨域的方式](../../issues/6)
 - 数组
     - [类数组和数组的区别](../../issues/10)
     - [数组方法分类](../../issues/82)
@@ -58,6 +56,9 @@
     - [前端存储之 cookie、localStorage、sessionStorage 和 indexedDB](../../issues/83)
     - [LHS和RHS查询](../../issues/13)
     - [基于 Localstorage 设计一个 1M 的缓存系统，需要实现缓存淘汰机制](../../issues/42)
+- [防抖和节流](../../issues/2)
+- [可迭代对象](../../issues/5)
+- [实现跨域的方式](../../issues/6)
 - [String() 与 new String() 的差异](../../issues/14)
 - [内存空间](../../issues/15)
 - [4类常见内存泄漏及如何避免](../../issues/16)
