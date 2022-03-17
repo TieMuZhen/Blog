@@ -93,7 +93,7 @@
 - [px、em、rem、vh、vw区别](../../issues/98) 
 - [设备像素、css像素、设备独立像素、dpr、ppi 之间的区别](../../issues/99)
 - 盒模型
-  - [盒模型与box-sizing](https://github.com/febobo/web-interview/issues/93)
+  - [盒模型与box-sizing](../../issues/131)
   - [BFC、IFC、margin塌陷、margin合并](../../issues/47)
   - [清除浮动](../../issues/50)
 - [样式的继承性和权重计算](../../issues/33) 
