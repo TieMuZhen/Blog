@@ -180,6 +180,7 @@
 - [Vue 动态绑定样式的方式](../../issues/67)
 - [keep-alive缓存组件](https://juejin.cn/post/6844903918313406472)[、keep-alive缓存后怎么更新](../../issues/92)
 - 公共组件
+  - [v-once、Vue.component](../../issues/133)
   - [插件 Vue.use(plugin) 的原理和使用](../../issues/64)
   - [Vue.extend](../../issues/132)
   - [Vue 插槽(slot)](https://github.com/febobo/web-interview/issues/16)
