@@ -41,7 +41,8 @@
     - [原型](../../issues/52)
     - [原型链解决的是什么问题？prototype 和__proto__区别是什么？](../../issues/19)
     - [继承的七种方式](../../issues/53)
-- Promise系列
+- Promise和async / await
+    - [async / await](../../issues/21)
     - [Promise源码学习](../../issues/1)
     - [使用Promise实现红绿灯交替重复亮](../../issues/46)
 - 懒加载
@@ -65,7 +66,6 @@
 - [4类常见内存泄漏及如何避免](../../issues/16)
 - [如何处理十万级别的大量数据 ？](../../issues/18)
 - [ES6新的特性](../../issues/20)
-- [async / await](../../issues/21)
 - [requestAnimationFrame 和 setTimeout/setInterval 区别](../../issues/22)
 - [事件循环EvenLoop](../../issues/31)
 - [模块化：ES6、Commond、AMD、CMD](../../issues/24)
