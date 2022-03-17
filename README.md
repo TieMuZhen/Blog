@@ -42,7 +42,7 @@
     - [原型链解决的是什么问题？prototype 和__proto__区别是什么？](../../issues/19)
     - [继承的七种方式](../../issues/53)
 - Promise和async / await
-    - [async / await](../../issues/21)
+    - [async / await以及和promise的区别](../../issues/21)
     - [Promise源码学习](../../issues/1)
     - [使用Promise实现红绿灯交替重复亮](../../issues/46)
 - 懒加载
