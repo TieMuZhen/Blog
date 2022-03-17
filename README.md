@@ -98,9 +98,10 @@
   - [清除浮动](../../issues/50)
 - [样式的继承性和权重计算](../../issues/33) 
 - [display、visibility、opacity、position隐藏元素的区别](../../issues/75)
-- [块级元素和行内元素及其区别](../../issues/73)
-- [inline、block、inline-block和float区别](../../issues/37)
 - [position的五个属性值](https://www.ruanyifeng.com/blog/2019/11/css-position.html)
+- 行内元素、块级元素
+  - [块级元素和行内元素及其区别](../../issues/73)
+  - [inline、block、inline-block和float区别](../../issues/37)
 - 响应式
   - [响应式布局及经典多栏布局案例](../../issues/32)
   - [Grid vs Flex](https://zhuanlan.zhihu.com/p/46757975)
