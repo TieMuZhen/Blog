@@ -199,6 +199,7 @@
 
 > ## Node
 - [Webpack配置Node环境变量](../../issues/138)
+- [压缩和混淆node.js服务端代码](https://segmentfault.com/a/1190000021269770)
 - [说说对 Buffer 的理解、应用场景](../../issues/118)
 - [说说对 Stream 的理解、应用场景](../../issues/119)
 - [说说EventEmitter? 如何实现一个EventEmitter?](../../issues/120)
