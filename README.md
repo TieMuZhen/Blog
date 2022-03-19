@@ -105,7 +105,7 @@
   - [inline、block、inline-block和float区别](../../issues/37)
 - 响应式
   - [响应式布局及经典多栏布局案例](../../issues/32)
-  - [Flex](https://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)vs[Grid](https://www.ruanyifeng.com/blog/2019/03/grid-layout-tutorial.html)
+  - [Flex](https://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)vs[Grid](https://www.ruanyifeng.com/blog/2019/03/grid-layout-tutorial.html)、[Flex查询手册](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)、[Grid查询手册](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - 元素居中
   - [元素居中显示](../../issues/36)
   - [margin-left: auto元素右对齐以及margin: 0 auto水平居中的原理](../../issues/74)
