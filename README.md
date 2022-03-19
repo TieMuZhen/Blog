@@ -51,8 +51,9 @@
     - [继承的七种方式](../../issues/53)
 - Promise和async / await
     - [async / await以及和promise、生成器Generator的区别](../../issues/21)
-    - [Promise源码学习](../../issues/1)
+    - [Promise实现并发控制](../../issues/137)
     - [使用Promise实现红绿灯交替重复亮](../../issues/46)
+    - [Promise源码学习](../../issues/1)
 - 懒加载
     - [图片懒加载(lazyload)](../../issues/81)
     - [路由按需加载（懒加载）的3种方式：vue异步组件require()、es提案的import()、webpack的require.ensure()](../../issues/62)
