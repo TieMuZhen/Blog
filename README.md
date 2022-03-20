@@ -160,6 +160,7 @@
 > ## 设计模式
 - [工厂模式、构造函数模式、寄生构造函数模式、稳妥构造函数模式](../../issues/54)
 - [观察者模式与发布订阅模式](../../issues/61)
+- [OOP与AOP区别、装饰者模式](../../issues/139)
 
 > ## Vue
 - [MVC、MVP、MVVM的区别](https://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html)
