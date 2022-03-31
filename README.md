@@ -243,6 +243,7 @@
 
 > ## Redis
 - [List、Set、Zset有序集合、Hash、Geospatial地理位置](../../issues/140)
+- [redis事务及乐观锁](../../issues/141)
 
 > ## 图形处理
 - [threejs](https://github.com/puxiao/threejs-tutorial)
