@@ -242,6 +242,7 @@
 - [TypeScript 的另一面：类型编程](https://juejin.cn/post/6989796543880495135)
 
 > ## Redis
+- [List、Set、Zset有序集合、Hash、Geospatial地理位置](../../issues/140)
 
 > ## 图形处理
 - [threejs](https://github.com/puxiao/threejs-tutorial)
