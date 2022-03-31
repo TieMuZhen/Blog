@@ -237,13 +237,13 @@
   - [npm 安装时 --save --dev 和 --save 区别](../../issues/126)
   - [npm init 和 npm install执行了哪些操作](../../issues/127)
 
-> ## TypeScript
-- [TypeScript 入门教程](https://ts.xcatliu.com/)
-- [TypeScript 的另一面：类型编程](https://juejin.cn/post/6989796543880495135)
-
 > ## Redis
 - [List、Set、Zset有序集合、Hash、Geospatial地理位置](../../issues/140)
 - [redis事务及乐观锁](../../issues/141)
+
+> ## TypeScript
+- [TypeScript 入门教程](https://ts.xcatliu.com/)
+- [TypeScript 的另一面：类型编程](https://juejin.cn/post/6989796543880495135)
 
 > ## 图形处理
 - [threejs](https://github.com/puxiao/threejs-tutorial)
