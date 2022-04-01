@@ -243,10 +243,11 @@
 - [Redis、Memcache、MongoDB区别](../../issues/148)
 - [缓存穿透、缓存击穿、缓存雪崩](../../issues/149)
 - [八种数据类型：String、Bitmap、Hyperloglog、List、Set、Zset有序集合、Hash、Geospatial地理位置](../../issues/140)
+- [模拟验证码发送](../../issues/145)
 - [Redis事务及乐观锁](../../issues/141)
 - [Redis配置文件详解](../../issues/143)
 - [Redis订阅发布](../../issues/144)
-- [模拟验证码发送](../../issues/145)
+- [哨兵模式](../../issues/150)
 - [持久化之RDB操作、AOF操作](../../issues/146)
 
 > ## TypeScript
