@@ -239,7 +239,7 @@
   - [npm init 和 npm install执行了哪些操作](../../issues/127)
 
 > ## Redis
-- [List、Set、Zset有序集合、Hash、Geospatial地理位置](../../issues/140)
+- [八种数据类型：String、Bitmap、Hyperloglog、List、Set、Zset有序集合、Hash、Geospatial地理位置](../../issues/140)
 - [redis事务及乐观锁](../../issues/141)
 
 > ## TypeScript
