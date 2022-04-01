@@ -211,6 +211,7 @@
 - [设计一个分页功能，前后端如何交互?](../../issues/124)
 - [PM2实用入门指南](https://www.cnblogs.com/chyingp/p/pm2-documentation.html)
 - [Node.js 与 log4js](https://zhuanlan.zhihu.com/p/22110802)
+- [自动化API测试](https://cloud.tencent.com/developer/news/618920)
 
 > ## Babel
 - [Babel快速上手使用指南](https://juejin.cn/post/6844903858632654856)
