@@ -243,6 +243,7 @@
 - [Redis事务及乐观锁](../../issues/141)
 - [Redis配置文件详解](../../issues/143)
 - [Redis订阅发布](../../issues/144)
+- [模拟验证码发送](../../issues/145)
 
 > ## TypeScript
 - [TypeScript 入门教程](https://ts.xcatliu.com/)
