@@ -241,6 +241,7 @@
 > ## Redis
 - [八种数据类型：String、Bitmap、Hyperloglog、List、Set、Zset有序集合、Hash、Geospatial地理位置](../../issues/140)
 - [redis事务及乐观锁](../../issues/141)
+- [Redis配置文件详解](../../issues/143)
 
 > ## TypeScript
 - [TypeScript 入门教程](https://ts.xcatliu.com/)
