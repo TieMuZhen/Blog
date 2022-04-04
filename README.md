@@ -196,7 +196,7 @@
 - Vue3.0
     - [Vue2.0和Vue3.0的区别](../../issues/69) 
     - [Vue3.0 所采用的 Composition Api 与 Vue2.x 使用的 Options Api 有什么不同？](https://juejin.cn/post/6844904066103902215)
-- [高阶组件(HOC)](http://caibaojian.com/vue-design/more/vue-hoc.html#vue-%E4%B8%AD%E7%9A%84%E9%AB%98%E9%98%B6%E7%BB%84%E4%BB%B6)
+- [高阶组件(HOC)](http://caibaojian.com/vue-design/more/vue-hoc.html#vue-%E4%B8%AD%E7%9A%84%E9%AB%98%E9%98%B6%E7%BB%84%E4%BB%B6)[、使用举例](https://www.cnblogs.com/zhensg123/p/14699982.html)
 - [Vuex 简单介绍](../../issues/63)
 
 > ## Node
