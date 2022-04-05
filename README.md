@@ -252,6 +252,9 @@
 - [持久化之RDB操作、AOF操作](../../issues/146)
 - [多线程、阻塞、非阻塞](../../issues/152)
 - [秒杀系统](../../issues/153)
+- 集群
+  - [集群](../../issues/154)
+  - [集群的环境搭建](../../issues/155)
 
 > ## TypeScript
 - [TypeScript 入门教程](https://ts.xcatliu.com/)
