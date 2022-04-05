@@ -255,6 +255,8 @@
 - 集群
   - [集群](../../issues/154)
   - [集群的环境搭建](../../issues/155)
+- [分布式锁](../../issues/156)
+- [秒杀案例](../../issues/157)
 
 > ## TypeScript
 - [TypeScript 入门教程](https://ts.xcatliu.com/)
