@@ -251,6 +251,7 @@
 - [哨兵模式](../../issues/150)
 - [持久化之RDB操作、AOF操作](../../issues/146)
 - [多线程、阻塞、非阻塞](../../issues/152)
+- [秒杀系统](../../issues/153)
 
 > ## TypeScript
 - [TypeScript 入门教程](https://ts.xcatliu.com/)
