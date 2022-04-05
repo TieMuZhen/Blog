@@ -257,6 +257,7 @@
   - [集群的环境搭建](../../issues/155)
 - [分布式锁](../../issues/156)
 - [秒杀案例](../../issues/157)
+- [Redis经典面试题](../../issues/158)
 
 > ## TypeScript
 - [TypeScript 入门教程](https://ts.xcatliu.com/)
