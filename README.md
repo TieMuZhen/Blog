@@ -298,6 +298,8 @@
 - 并查集
   - [有环图转无环图](../../issues/151)
   - [最小生成树](../../issues/159)
+- [岛屿系列问题](../../issues/160)
+- [大数加法](../../issues/161)
 
 > ## 其它
 - [MockingBird 只要5秒的原始讲话录音，就能克隆该声音，让它说出任意给定文本](https://github.com/babysor/MockingBird/blob/main/README-CN.md)
