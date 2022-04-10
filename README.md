@@ -294,6 +294,7 @@
 - [Jenkins 持续集成](https://www.jenkins.io/zh/doc/pipeline/tour/getting-started/)
 
 > ## 算法
+- [时间复杂度分析方法](https://mp.weixin.qq.com/s/Rzdz_dwS_4eOoX7XkFIALQ)
 - [快速幂](../../issues/130)
 - [实现字典树](../../issues/142)
 - 并查集
