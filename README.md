@@ -295,14 +295,17 @@
 
 > ## 算法
 - [时间复杂度分析方法](https://mp.weixin.qq.com/s/Rzdz_dwS_4eOoX7XkFIALQ)[、时间和空间复杂度分析案例](https://zhuanlan.zhihu.com/p/50479555)
+- [快速排序、堆排序、二路归并排序、插入排序](../../issues/163)
 - [快速幂](../../issues/130)
 - [实现字典树](../../issues/142)
-- 并查集
-  - [有环图转无环图](../../issues/151)
-  - [最小生成树](../../issues/159)
 - [岛屿系列问题](../../issues/160)
 - [大数加法](../../issues/161)
-- [快速排序、堆排序、二路归并排序、插入排序](../../issues/163)
+- 图论
+  - 并查集
+    - [有环图转无环图](../../issues/151)
+    - [最小生成树](../../issues/159)
+  - [拓扑排序、最短路径、关键路径](../../issues/164) 
+
 
 > ## 其它
 - [MockingBird 只要5秒的原始讲话录音，就能克隆该声音，让它说出任意给定文本](https://github.com/babysor/MockingBird/blob/main/README-CN.md)
