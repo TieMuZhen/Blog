@@ -302,7 +302,7 @@
   - [最小生成树](../../issues/159)
 - [岛屿系列问题](../../issues/160)
 - [大数加法](../../issues/161)
-- [快速排序、堆排序、二路归并排序、插入排序、拓扑排序](../../issues/163)
+- [快速排序、堆排序、二路归并排序、插入排序](../../issues/163)
 
 > ## 其它
 - [MockingBird 只要5秒的原始讲话录音，就能克隆该声音，让它说出任意给定文本](https://github.com/babysor/MockingBird/blob/main/README-CN.md)
