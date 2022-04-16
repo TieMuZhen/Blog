@@ -23,7 +23,7 @@
 - [4类常见内存泄漏及如何避免](../../issues/16)
 - [事件循环EvenLoop](../../issues/31)
 - Object
-    - [assign、keys、getOwnPropertyDescriptor、create、defineProperty] (../../issues/167)
+    - [assign、keys、getOwnPropertyDescriptor、create、defineProperty](../../issues/167)
 - 数组
     - [类数组和数组的区别](../../issues/10)
     - [数组方法分类](../../issues/82)
