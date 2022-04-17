@@ -24,6 +24,8 @@
 - [事件循环EvenLoop](../../issues/31)
 - Object
     - [assign、keys、getOwnPropertyDescriptor、create、defineProperty](../../issues/167)
+    - [entries、FromEntries](../../issues/168)
+    - [freeze(冻结)、seal(封闭)](https://zhuanlan.zhihu.com/p/145153864)
 - 数组
     - [类数组和数组的区别](../../issues/10)
     - [数组方法分类](../../issues/82)
