@@ -34,6 +34,7 @@
     - [实现数组去重](../../issues/4)
     - [for...in、Object.keys、Object.getOwnPropertyNames 之间区别](../../issues/40)
     - [for of , for in 和 forEach,map 的区别](../../issues/9)
+    - [手写forEach、map、reduce、filter](../../issues/170)
     - [深拷贝和浅拷贝](../../issues/39)
 - 类型转换
     - [undefined与null的区别](https://www.ruanyifeng.com/blog/2014/03/undefined-vs-null.html)
