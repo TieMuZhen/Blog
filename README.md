@@ -140,8 +140,10 @@
 - [从输入 URL 到页面加载完成的过程中都发生了什么事情？](../../issues/117)
 - [HTTP/0.9、HTTP/1.0、HTTP/1.1、HTTP/2、HTTP/3、websocket之间的区别，HTTP 和 HTTPS 的区别](../../issues/57)
 - [HTTPS](https://segmentfault.com/a/1190000021494676)
-- [HTTP 常见的状态码和适用场景](../../issues/87)
-- [HTTP headers和HTTP request methods](../../issues/7)
+- Request、Response
+  - [request和response结构 #174](../../issues/174)
+  - [HTTP headers和HTTP request methods](../../issues/7)
+  - [HTTP 常见的状态码和适用场景](../../issues/87)
 - [TCP、UDP的区别，TCP如何实现可靠传输，UDP如何改进实现可靠传输](../../issues/88)
 - [三次握手、四次挥手及其涉及的相关问题](https://juejin.cn/post/6844903958624878606)
 - [简单请求、复杂请求、预检请求](https://github.com/amandakelake/blog/issues/62)
