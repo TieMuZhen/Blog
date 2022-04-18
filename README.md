@@ -20,7 +20,7 @@
 - [String() 与 new String() 的差异](../../issues/14)
 - [内存空间](../../issues/15)
 - [4类常见内存泄漏及如何避免](../../issues/16)
-- 时间循环
+- 事件循环
   - [事件循环试题](../../issues/173)
   - [事件循环EvenLoop](../../issues/31)
   - [requestAnimationFrame 和 setTimeout/setInterval 区别](../../issues/22)
