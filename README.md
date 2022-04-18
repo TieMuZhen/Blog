@@ -141,7 +141,7 @@
 - [HTTP/0.9、HTTP/1.0、HTTP/1.1、HTTP/2、HTTP/3、websocket之间的区别，HTTP 和 HTTPS 的区别](../../issues/57)
 - [HTTPS](https://segmentfault.com/a/1190000021494676)
 - Request、Response
-  - [request和response结构 #174](../../issues/174)
+  - [request和response结构](../../issues/174)
   - [HTTP headers和HTTP request methods](../../issues/7)
   - [HTTP 常见的状态码和适用场景](../../issues/87)
 - [TCP、UDP的区别，TCP如何实现可靠传输，UDP如何改进实现可靠传输](../../issues/88)
