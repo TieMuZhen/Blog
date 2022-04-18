@@ -21,7 +21,7 @@
 - [内存空间](../../issues/15)
 - [4类常见内存泄漏及如何避免](../../issues/16)
 - 事件循环
-  - [事件循环试题](../../issues/173)
+  - [事件循环试题](https://github.com/Advanced-Frontend/Daily-Interview-Question/issues/7)
   - [事件循环EvenLoop](../../issues/31)
   - [requestAnimationFrame 和 setTimeout/setInterval 区别](../../issues/22)
 - Object
