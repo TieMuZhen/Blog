@@ -63,6 +63,7 @@
   - [使用Promise实现红绿灯交替重复亮](../../issues/46)
   - [封装带有超时（重试）机制的异步请求工具函数](../../issues/177)
   - [async 和 await 是怎么工作的？——生成器与协程](../../issues/182)
+  - [async / await 底层的 generator 实现](../../issues/183)
   - [Promise源码学习](../../issues/1)
 - 懒加载
   - [图片懒加载(lazyload)](../../issues/81)
