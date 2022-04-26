@@ -313,6 +313,7 @@
 - [Jenkins 持续集成](https://www.jenkins.io/zh/doc/pipeline/tour/getting-started/)
 - [Git Flow](https://segmentfault.com/a/1190000006194051)
 - [前端代码上传到阿里云服务器上（OSS）并访问](../../issues/185)
+- [ OSS 和 CDN 配合使用加速](https://maintao.com/2018/aliyun-oss-cdn-tips/)
 - [前端单元测试](https://juejin.cn/post/7039108357554176037)
 
 > ## 算法
