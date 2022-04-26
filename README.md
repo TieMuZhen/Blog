@@ -145,7 +145,6 @@
 - [如何理解CDN？说说实现原理？](../../issues/116)
 - [从输入 URL 到页面加载完成的过程中都发生了什么事情？](../../issues/117)
 - [HTTP/0.9、HTTP/1.0、HTTP/1.1、HTTP/2、HTTP/3、websocket之间的区别，HTTP 和 HTTPS 的区别](../../issues/57)
-- [HTTPS](https://segmentfault.com/a/1190000021494676)
 - Request、Response
   - [request和response结构](../../issues/174)
   - [HTTP headers和HTTP request methods](../../issues/7)
@@ -159,6 +158,10 @@
 - 缓存
   - [彻底理解浏览器的缓存机制](https://juejin.cn/post/6844903593275817998)
   - [图解 Http 缓存控制之 max-age=0、no-cache、no-store 区别](https://zhuanlan.zhihu.com/p/55623075)
+- HTTPS
+  - [HTTPS详解](https://segmentfault.com/a/1190000021494676)  
+  - [SSL/TLS握手过程](https://segmentfault.com/a/1190000021559557)
+  - [证书吊销机制](https://network.51cto.com/article/610944.html)
 
 > ## 浏览器
 - 架构
