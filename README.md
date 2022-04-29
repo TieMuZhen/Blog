@@ -255,6 +255,7 @@
 - [代码分割和公共代码提取](https://segmentfault.com/a/1190000021074403)
 - [如何使用webpack优化前端性能](../../issues/105)
 - [如何提高webpack的构建速度](../../issues/106)
+- [Tree Shaking原理](../../issues/187)
 - npm
   - [npm和yarn的区别](../../issues/125)
   - [npm 安装时 --save --dev 和 --save 区别](../../issues/126)
