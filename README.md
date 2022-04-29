@@ -77,6 +77,7 @@
   - [Blob、ArrayBuffer和Buffer](https://juejin.cn/post/6992205283732766750)
 - 存储
   - [前端存储之 cookie、localStorage、sessionStorage 和 indexedDB](../../issues/83)
+  - [为什么在京东搜索的商品，会展示在抖音广告上](http://www.woshipm.com/marketing/3259963.html)
   - [跨tab页sessionStorage共享](../../issues/175)
   - [LHS和RHS查询](../../issues/13)
   - [基于 Localstorage 设计一个 1M 的缓存系统，需要实现缓存淘汰机制](../../issues/42)
