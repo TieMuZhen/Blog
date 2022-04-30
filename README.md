@@ -87,7 +87,9 @@
 - 模块化
   - [模块化：ES6、Commond、AMD、CMD](../../issues/24)
   - [Commonjs 和 Es Module](https://juejin.cn/post/6994224541312483336)
-- [浏览器事件代理机制：捕获、冒泡](../../issues/25)
+- 事件代理机制
+  - [浏览器事件代理机制：捕获、冒泡](../../issues/25)
+  - [onclick与addEventListener区别](../../issues/190)
 - [跨页面通信](https://juejin.cn/post/6844903811232825357#heading-3)
 - [自定义事件](../../issues/26)
 - [js异步加载方式](../../issues/27)
