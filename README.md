@@ -96,6 +96,7 @@
   - [空值合并运算符 '??'](https://zh.javascript.info/nullish-coalescing-operator)
   - [0.1 + 0.2不等于0.3？精度丢失问题](../../issues/17)
   - [10 个 Ajax 同时发起请求，全部返回展示结果，并且至多允许三次失败](../../issues/41)
+  - [编写一个具有模糊查询功能的搜索框](../../issues/189)
   - [手写轮播图](https://github.com/TieMuZhen/cycle-swiper)
   - [如何实现上拉加载，下拉刷新？](../../issues/97)
   - [如何处理十万级别的大量数据 ？](../../issues/18)
