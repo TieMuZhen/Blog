@@ -205,6 +205,7 @@
 - [Mixins（混入）](https://segmentfault.com/a/1190000015698391)[及源码分析](https://github.com/febobo/web-interview/issues/15)
 - 双向绑定原理
     - [数据响应(数据劫持)](../../issues/58)
+    - [Vue数据双向绑定原理，实现v-model](../../issues/191)
 - [vue中8种组件通信方式](https://juejin.cn/post/6844903887162310669)
 - [vue-router](../../issues/38)
 - [按需加载的3种方式：vue异步组件require()、es提案的import()、webpack的require.ensure()](../../issues/62)
