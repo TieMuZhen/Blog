@@ -106,6 +106,7 @@
   - [JS文件：读取与拖拽、转换bsae64、预览、FormData上传、七牛上传、分割文件](https://github.com/amandakelake/blog/issues/40)
   - [大文件上传如何做断点续传？](https://github.com/febobo/web-interview/issues/89)
   - [单点登录及常见解决方案原理（CAS、oauth2、JWT）](https://blog.csdn.net/baolingye/article/details/104197535)
+  - [遍历DOM树，拿到每个路径的便签和当前经过的便签的最大data-v的值](../../issues/192)
 
 > ## HTML
 - [对HTML5语义化的理解](../../issues/44)
