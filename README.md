@@ -128,6 +128,7 @@
 - [display、visibility、opacity、position隐藏元素的区别](../../issues/75)
 - [position的五个属性值](https://www.ruanyifeng.com/blog/2019/11/css-position.html)
 - 行内元素、块级元素
+  - [为什么图片下面总是多几个像素空白？](../../issues/193)
   - [块级元素和行内元素及其区别](../../issues/73)
   - [inline、block、inline-block和float区别](../../issues/37)
 - 响应式
