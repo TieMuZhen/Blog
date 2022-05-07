@@ -218,7 +218,7 @@
 - [Vue 动态绑定样式的方式](../../issues/67)
 - [keep-alive缓存组件](https://juejin.cn/post/6844903918313406472)[、keep-alive缓存后怎么更新](../../issues/92)
 - 公共组件
-  - [组件库按需加载原理分析](https://juejin.cn/post/6968505746757533710#heading-6) 
+  - [组件库按需加载原理分析](https://juejin.cn/post/6968505746757533710) 
   - [v-once、Vue.component](../../issues/133)
   - [插件 Vue.use(plugin) 的原理和使用](../../issues/64)
   - [Vue.extend](../../issues/132)
