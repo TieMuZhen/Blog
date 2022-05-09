@@ -156,6 +156,7 @@
 - [如何理解CDN？说说实现原理？](../../issues/116)
 - [从输入 URL 到页面加载完成的过程中都发生了什么事情？](../../issues/117)
 - [HTTP/0.9、HTTP/1.0、HTTP/1.1、HTTP/2、HTTP/3、websocket之间的区别，HTTP 和 HTTPS 的区别](../../issues/57)
+- [一个TCP连接可以发送多少个HTTP请求？](https://juejin.cn/post/7000173309509926925)
 - [HTTP的KeepAlive是开启还是关闭？](../../issues/197)
 - Request、Response
   - [request和response结构](../../issues/174)
