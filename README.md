@@ -85,6 +85,7 @@
 - [防抖和节流](../../issues/2)
 - [同源策略以及实现跨域的方式](../../issues/6)
 - 模块化
+  - [CommonJS循环加载](../../issues/199)
   - [模块化：ES6、Commond、AMD、CMD](../../issues/24)
   - [Commonjs 和 Es Module](https://juejin.cn/post/6994224541312483336)
 - 事件代理机制
