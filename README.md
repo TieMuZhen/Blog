@@ -201,7 +201,7 @@
 > ## Vue
 - [MVC、MVP、MVVM的区别](https://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html)
 - [v-if和v-show的区别](../../issues/85)
-- [watch和computed的区别](../../issues/84)
+- [watch、computed区别及属性的监听](../../issues/84)
 - [Vue过滤器](../../issues/93)
 - [Vue中的diff算法](../../issues/71)
 - [Vue生命周期](../../issues/65)；[父子组件、兄弟组件、宏mixins组件生命周期](https://juejin.cn/post/6844903602356502542)
