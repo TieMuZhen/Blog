@@ -179,6 +179,7 @@
   - [HTTPS详解](https://segmentfault.com/a/1190000021494676)  
   - [SSL/TLS握手过程](https://segmentfault.com/a/1190000021559557)
   - [证书吊销机制](https://network.51cto.com/article/610944.html)
+  - [Nginx部署CA证书](https://blog.csdn.net/why_2012_gogo/article/details/77894502)
 
 > ## 浏览器
 - 架构
