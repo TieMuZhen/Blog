@@ -321,6 +321,7 @@
 
 > ## 性能优化
 - [如何监控网页的卡顿？](https://zhuanlan.zhihu.com/p/39292837)
+- [如何对直播卡顿优化](https://juejin.cn/post/7062552765117136903#heading-13)
 - [QPS、TPS、并发用户数、吞吐量关系](https://zhuanlan.zhihu.com/p/111914041)
 - [最新性能指标](https://juejin.cn/post/6850037270729359367)
 - [前端性能优化 24 条建议（2020）](https://juejin.cn/post/6892994632968306702)
