@@ -79,6 +79,7 @@
   - [Blob、ArrayBuffer和Buffer](https://juejin.cn/post/6992205283732766750)
 - 存储
   - [前端存储之 cookie、localStorage、sessionStorage 和 indexedDB](../../issues/83)
+  - [Session、Cookie、Token、JWT区别](https://juejin.cn/post/6844904115080790023)、[分布式Session一致性的4种解决方案](https://segmentfault.com/a/1190000022404396)
   - [为什么在京东搜索的商品，会展示在抖音广告上](http://www.woshipm.com/marketing/3259963.html)
   - [跨tab页sessionStorage共享](../../issues/175)
   - [LHS和RHS查询](../../issues/13)
@@ -168,7 +169,6 @@
 - [三次握手、四次挥手及其涉及的相关问题](https://juejin.cn/post/6844903958624878606)
 - 跨域
   - [简单请求、复杂请求、预检请求、跨域资源共享CORS](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/CORS)
-- [Session、Cookie、Token、JWT区别](https://juejin.cn/post/6844904115080790023)、[分布式Session一致性的4种解决方案](https://segmentfault.com/a/1190000022404396)
 - [ajax、axios、fetch对比](https://zhuanlan.zhihu.com/p/58062212)
 - [封装Axios](https://github.com/febobo/web-interview/issues/25)
 - 缓存
