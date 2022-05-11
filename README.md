@@ -165,6 +165,7 @@
 - Request、Response
   - [request和response结构](../../issues/174)
   - [HTTP headers和HTTP request methods](../../issues/7)
+  - [HTTP headers 之 host, referer, origin](https://juejin.cn/post/6844903954455724045)
   - [HTTP 常见的状态码和适用场景](../../issues/87)
 - [TCP、UDP的区别，TCP如何实现可靠传输，UDP如何改进实现可靠传输](../../issues/88)
 - [三次握手、四次挥手及其涉及的相关问题](https://juejin.cn/post/6844903958624878606)
