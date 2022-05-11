@@ -59,6 +59,7 @@
   - [原型](../../issues/52)
   - [原型链解决的是什么问题？prototype 和__proto__区别是什么？](../../issues/19)
   - [继承的七种方式](../../issues/53)
+- [面向对象编程特点、js实现面向对象(封装、继承、多态)、重载（不属于面向对象）](../../issues/200)
 - Promise和async / await
   - [async / await 的错误处理方法](https://github.com/davidlin88/blogs/issues/2)
   - [async / await以及和promise、生成器Generator的区别](../../issues/21)
