@@ -171,8 +171,10 @@
 - [三次握手、四次挥手及其涉及的相关问题](https://juejin.cn/post/6844903958624878606)
 - 跨域
   - [简单请求、复杂请求、预检请求、跨域资源共享CORS](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/CORS)
-- [ajax、axios、fetch对比](https://zhuanlan.zhihu.com/p/58062212)
-- [封装Axios](https://github.com/febobo/web-interview/issues/25)
+- Axios
+  - [ajax、axios、fetch对比](https://zhuanlan.zhihu.com/p/58062212)
+  - [xhr封装axios](../../issues/202)
+  - [二次封装Axios](https://github.com/febobo/web-interview/issues/25)
 - 缓存
   - [彻底理解浏览器的缓存机制](https://juejin.cn/post/6844903593275817998)
   - [图解 Http 缓存控制之 max-age=0、no-cache、no-store 区别](https://zhuanlan.zhihu.com/p/55623075)
