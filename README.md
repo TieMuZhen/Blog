@@ -252,6 +252,7 @@
   - [Vuex 和 localStorage 的区别](../../issues/205)
 
 > ## Node
+- [Node.js 架构](https://juejin.cn/post/7081891057918558221)
 - [Webpack配置Node环境变量](../../issues/138)
 - [压缩和混淆node.js服务端代码](https://segmentfault.com/a/1190000021269770)
 - [说说对 Buffer 的理解、应用场景](../../issues/118)
