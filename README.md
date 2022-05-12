@@ -148,7 +148,9 @@
   - [如何优化CSS来提高性能](../../issues/102)
   - [link和@import的区别](../../issues/48) 
   - [link为什么要放在body前](https://zhuanlan.zhihu.com/p/46387951)
-- [transition、transform、animation、requestAnimationFrame四种方式实现css动画](../../issues/100)
+- 动画
+  - [transition、transform、animation三种方式实现css动画](../../issues/100)
+  - [setInterval、setTimeOut、requestAnimationFrame三种方式实现js动画](https://juejin.cn/post/6971402961217912839)
 - 预处理器
   - [less基本知识](../../issues/34) 
 
