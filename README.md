@@ -9,11 +9,11 @@
 # :book: 目录
 
 > ## Javascript
+- [ES6新的特性](../../issues/20)
 - [本地对象、内置对象、宿主对象](../../issues/195)
 - [var、let、const三者区别](https://juejin.cn/post/6925641096152399880)
 - [纯函数、函数式编程、柯里化](../../issues/136)
 - [值的不可变性](https://wizardforcel.gitbooks.io/functional-light-js/content/ch6.html)
-- [ES6新的特性](../../issues/20)
 - [ES6中的装饰器Decorator](../../issues/96)
 - [ES6的解构赋值](../../issues/128)
 - [new的原理是什么？通过new的方式创建对象和通过字面量创建有什么区别？](../../issues/55)
