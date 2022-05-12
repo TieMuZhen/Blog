@@ -171,7 +171,7 @@
 - [三次握手、四次挥手及其涉及的相关问题](https://juejin.cn/post/6844903958624878606)
 - 跨域
   - [简单请求、复杂请求、预检请求、跨域资源共享CORS](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/CORS)
-- Axios
+- 异步请求方式
   - [ajax、axios、fetch对比](https://zhuanlan.zhihu.com/p/58062212)
   - [xhr封装axios](../../issues/202)
   - [二次封装Axios](https://github.com/febobo/web-interview/issues/25)
