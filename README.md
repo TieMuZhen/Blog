@@ -112,6 +112,7 @@
   - [遍历DOM树，拿到每个路径的便签和当前经过的便签的最大data-v的值](../../issues/192)
 
 > ## HTML
+- [HTML5新增了哪些特性？](https://juejin.cn/post/6988039257587712008)
 - [对HTML5语义化的理解](../../issues/44)
 - [meta、link之预加载图片、文件](../../issues/49)
 - [SPA单页面优缺点及SPA首屏加载速度慢解决办法](../../issues/68)
@@ -119,6 +120,7 @@
 - [disabled和readonly的区别](../../issues/72)
 
 > ## CSS
+- [css3的新特性](https://segmentfault.com/a/1190000010780991)
 - [CSS变量 var()](../../issues/196)
 - [超过行数的文本用省略号替代](../../issues/178)
 - [px、em、rem、vh、vw区别](../../issues/98) 
