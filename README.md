@@ -98,7 +98,7 @@
 - [自定义事件](../../issues/26)
 - [js异步加载方式](../../issues/27)
 - [立即执行函数（IIFE）](../../issues/76)
-- 应用
+- 应用 
   - [颜色的十进制与十六进制互转（正则）](../../issues/129)
   - [空值合并运算符 '??'](https://zh.javascript.info/nullish-coalescing-operator)
   - [0.1 + 0.2不等于0.3？精度丢失问题](../../issues/17)
@@ -206,6 +206,7 @@
   - [V8垃圾回收机制、内存泄露](../../issues/56)
 
 > ## 设计模式
+- [权限设计方案](https://juejin.cn/post/6949453195987025927#heading-5)
 - [工厂模式、构造函数模式、寄生构造函数模式、稳妥构造函数模式](../../issues/54)
 - [观察者模式与发布订阅模式](../../issues/61)
 - [OOP与AOP区别、装饰者模式](../../issues/139)
@@ -221,7 +222,6 @@
 - [动态给vue的data添加一个新的属性时界面不刷新？怎样解决？](https://github.com/febobo/web-interview/issues/10)
 - [Vue的SEO优化方案](../../issues/94)
 - [hash 和 history 模式](https://zhuanlan.zhihu.com/p/130995492)
-- [Vue要做权限管理该怎么做？控制到按钮级别的权限怎么做？](https://github.com/febobo/web-interview/issues/29)
 - [Vue 组件为何采用异步渲染-nextTick的实现原理](https://juejin.cn/post/6899822303022956552)
 - [Mixins（混入）](https://segmentfault.com/a/1190000015698391)[及源码分析](https://github.com/febobo/web-interview/issues/15)
 - 双向绑定原理
