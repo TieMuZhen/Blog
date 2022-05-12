@@ -333,6 +333,7 @@
 - [前端性能优化之旅](https://alienzhou.github.io/fe-performance-journey/)
 
 > ## 操作系统
+- [32位和64位的区别](../../issues/203)
 - [线程与进程的区别，各自之间如何通信](../../issues/89)
 - [死锁的产生原因和解决办法](../../issues/90)
 
