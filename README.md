@@ -79,7 +79,8 @@
   - [Blob、ArrayBuffer和Buffer](https://juejin.cn/post/6992205283732766750)
 - 存储
   - [前端存储之 cookie、localStorage、sessionStorage 和 indexedDB](../../issues/83)
-  - [Session、Cookie、Token、JWT区别](https://juejin.cn/post/6844904115080790023)、[分布式Session一致性的4种解决方案](https://segmentfault.com/a/1190000022404396)
+  - [Cookie、Session、Token(JWT)区别](https://juejin.cn/post/6844904115080790023)、[分布式Session一致性的4种解决方案](https://segmentfault.com/a/1190000022404396)
+  - [如何防止JWT被盗](https://cloud.tencent.com/developer/article/1424531)
   - [为什么在京东搜索的商品，会展示在抖音广告上](http://www.woshipm.com/marketing/3259963.html)
   - [跨tab页sessionStorage共享](../../issues/175)
   - [LHS和RHS查询](../../issues/13)
