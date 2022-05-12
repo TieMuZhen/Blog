@@ -172,7 +172,7 @@
 - 跨域
   - [简单请求、复杂请求、预检请求、跨域资源共享CORS](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/CORS)
 - 异步请求方式
-  - [ajax、axios、fetch对比](https://zhuanlan.zhihu.com/p/58062212)
+  - [ajax、axios、fetch对比](https://www.cnblogs.com/weiqinl/p/11279950.html)
   - [xhr封装axios](../../issues/202)
   - [二次封装Axios](https://github.com/febobo/web-interview/issues/25)
 - 缓存
