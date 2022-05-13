@@ -16,7 +16,6 @@
 - [值的不可变性](https://wizardforcel.gitbooks.io/functional-light-js/content/ch6.html)
 - [ES6中的装饰器Decorator](../../issues/96)
 - [ES6的解构赋值](../../issues/128)
-- [new的原理是什么？通过new的方式创建对象和通过字面量创建有什么区别？](../../issues/55)
 - [可迭代对象](../../issues/5)
 - [String() 与 new String() 的差异](../../issues/14)
 - [内存空间](../../issues/15)
@@ -58,6 +57,7 @@
 - 原型、原型链、继承
   - [原型](../../issues/52)
   - [原型链解决的是什么问题？prototype 和__proto__区别是什么？](../../issues/19)
+  - [new的原理是什么？通过new的方式创建对象和通过字面量创建有什么区别？](../../issues/55)
   - [继承的七种方式](../../issues/53)
 - [面向对象编程特点、js实现面向对象(封装、继承、多态)、重载（不属于面向对象）](../../issues/200)
 - Promise和async / await
