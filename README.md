@@ -91,12 +91,12 @@
   - [CommonJS循环加载](../../issues/199)
   - [模块化：ES6、Commond、AMD、CMD](../../issues/24)
   - [Commonjs 和 Es Module](https://juejin.cn/post/6994224541312483336)
+  - [js异步加载方式](../../issues/27)
 - 事件代理机制
   - [浏览器事件代理机制：捕获、冒泡](../../issues/25)
   - [onclick与addEventListener区别](../../issues/190)
 - [跨页面通信](https://juejin.cn/post/6844903811232825357#heading-3)
 - [自定义事件](../../issues/26)
-- [js异步加载方式](../../issues/27)
 - [立即执行函数（IIFE）](../../issues/76)
 - 应用 
   - [颜色的十进制与十六进制互转（正则）](../../issues/129)
