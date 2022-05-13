@@ -144,8 +144,8 @@
   - [Flex](https://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)vs[Grid](https://www.ruanyifeng.com/blog/2019/03/grid-layout-tutorial.html)、[Flex查询手册](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)、[Grid查询手册](https://css-tricks.com/snippets/css/complete-guide-grid/)
   - [使用flex布局，实现子盒子之间的间隔固定，子盒子可以随着父盒子的大小进行调整](../../issues/135)
 - 元素居中
-  - [元素居中显示](../../issues/36)
   - [margin-left: auto元素右对齐以及margin: 0 auto水平居中的原理](../../issues/74)
+  - [元素居中显示](../../issues/36)
 - 性能优化
   - [如何优化CSS来提高性能](../../issues/102)
   - [link和@import的区别](../../issues/48) 
