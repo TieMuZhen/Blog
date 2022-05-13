@@ -134,7 +134,7 @@
 - [修改element-ui组件默认样式](../../issues/194) 
 - [line-height详解](https://segmentfault.com/a/1190000003038583)
 - [display、visibility、opacity、position隐藏元素的区别](../../issues/75)
-- [position的五个属性值](https://www.ruanyifeng.com/blog/2019/11/css-position.html)
+- [position的四个属性值](https://www.ruanyifeng.com/blog/2019/11/css-position.html)
 - 行内元素、块级元素
   - [为什么图片下面总是多几个像素空白？](../../issues/193)
   - [块级元素和行内元素及其区别](../../issues/73)
