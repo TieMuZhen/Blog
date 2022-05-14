@@ -151,6 +151,7 @@
   - [link和@import的区别](../../issues/48) 
   - [link为什么要放在body前](https://zhuanlan.zhihu.com/p/46387951)
 - 动画
+  - [CSS绘制三角形—border法](https://www.jianshu.com/p/9a463d50e441)
   - [transition、transform、animation三种方式实现css动画](../../issues/100)
   - [setInterval、setTimeOut、requestAnimationFrame三种方式实现js动画](https://juejin.cn/post/6971402961217912839)
 - 预处理器
