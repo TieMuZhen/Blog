@@ -240,7 +240,7 @@
   - [Vue.extend](../../issues/132)
   - [Vue 插槽(slot)](https://github.com/febobo/web-interview/issues/16)
   - [Vue自定义模态框](../../issues/95)
-  - [Vue动态组件实现tab页切换](https://segmentfault.com/a/1190000018018502)
+  - [Vue动态组件:is实现tab页切换](https://segmentfault.com/a/1190000018018502)
   - [高阶组件(HOC)](http://caibaojian.com/vue-design/more/vue-hoc.html#vue-%E4%B8%AD%E7%9A%84%E9%AB%98%E9%98%B6%E7%BB%84%E4%BB%B6)[、使用举例](https://www.cnblogs.com/zhensg123/p/14699982.html)
   - [vue中8种组件通信方式](https://juejin.cn/post/6844903887162310669)
 - Vue3.0 
