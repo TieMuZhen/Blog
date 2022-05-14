@@ -220,7 +220,6 @@
 - [动态给vue的data添加一个新的属性时界面不刷新？怎样解决？](https://github.com/febobo/web-interview/issues/10)
 - [Vue的SEO优化方案](../../issues/94)
 - [Vue 组件为何采用异步渲染-nextTick的实现原理](https://juejin.cn/post/6844903590293684231)
-- [Mixins（混入）](https://segmentfault.com/a/1190000015698391)[及源码分析](https://github.com/febobo/web-interview/issues/15)
 - 双向绑定原理
     - [数据响应(数据劫持)](../../issues/58)
     - [Vue数据双向绑定原理，实现v-model](../../issues/191)
@@ -235,6 +234,7 @@
 - [keep-alive缓存组件](https://juejin.cn/post/6844903918313406472)[、keep-alive缓存后怎么更新](../../issues/92)
 - 公共组件
   - [组件库按需加载原理分析](https://juejin.cn/post/6968505746757533710) 
+  - [Mixins（混入）](https://segmentfault.com/a/1190000015698391)[及源码分析](https://github.com/febobo/web-interview/issues/15)
   - [v-once、Vue.component](../../issues/133)
   - [插件 Vue.use(plugin) 的原理和使用](../../issues/64)
   - [Vue.extend](../../issues/132)
