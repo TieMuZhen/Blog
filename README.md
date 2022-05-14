@@ -219,13 +219,14 @@
 - [为什么data属性是一个函数而不是一个对象？](../../issues/91)
 - [动态给vue的data添加一个新的属性时界面不刷新？怎样解决？](https://github.com/febobo/web-interview/issues/10)
 - [Vue的SEO优化方案](../../issues/94)
-- [hash 和 history 模式](https://zhuanlan.zhihu.com/p/130995492)
 - [Vue 组件为何采用异步渲染-nextTick的实现原理](https://juejin.cn/post/6899822303022956552)
 - [Mixins（混入）](https://segmentfault.com/a/1190000015698391)[及源码分析](https://github.com/febobo/web-interview/issues/15)
 - 双向绑定原理
     - [数据响应(数据劫持)](../../issues/58)
     - [Vue数据双向绑定原理，实现v-model](../../issues/191)
-- [vue-router](../../issues/38)
+-router
+  - [vue-router](../../issues/38)
+  - [hash 和 history 模式](https://zhuanlan.zhihu.com/p/130995492)
 - [按需加载的3种方式：vue异步组件require()、es提案的import()、webpack的require.ensure()](../../issues/62)
 - [Vue 自定义指令Vue.directive](https://github.com/febobo/web-interview/issues/21)
 - [为什么使用key](../../issues/66)
