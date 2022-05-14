@@ -181,7 +181,7 @@
   - [xhr封装axios](../../issues/202)
   - [二次封装Axios](https://github.com/febobo/web-interview/issues/25)
 - 缓存
-  - [彻底理解浏览器的缓存机制](https://juejin.cn/post/6844903593275817998)
+  - [浏览器的缓存机制（强缓存(200(from disk cache))：Expires、Cache-Control 协商缓存(304)：Last-Modified/If-Nodified-since、Etag/If-None-Match）](https://juejin.cn/post/6844903593275817998)
   - [图解 Http 缓存控制之 max-age=0、no-cache、no-store 区别](https://zhuanlan.zhihu.com/p/55623075)
   - [用户的刷新行为对缓存的影响](../../issues/198)
 - HTTPS
