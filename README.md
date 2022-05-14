@@ -226,6 +226,7 @@
 - router
   - [vue-router](../../issues/38)
   - [hash 和 history 模式](https://zhuanlan.zhihu.com/p/130995492)
+  - [<router-link> 和a标签的区别](../../issues/206)
 - [按需加载的3种方式：vue异步组件require()、es提案的import()、webpack的require.ensure()](../../issues/62)
 - [Vue 自定义指令Vue.directive](https://github.com/febobo/web-interview/issues/21)
 - [为什么使用key](../../issues/66)
