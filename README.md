@@ -198,8 +198,6 @@
   - [回流与重绘 (Reflow & Repaint)](../../issues/101)
 - JS执行机制
   - [从浏览器多进程到JS单线程](https://segmentfault.com/a/1190000012925872)
-- 整体流程
-  - [当你在浏览器中输入 google.com 并且按下回车之后发生了什么？](https://github.com/skyline75489/what-happens-when-zh_CN)
 - 浏览器安全
   - [Web 安全](https://segmentfault.com/a/1190000023396707)、[如何防止CSRF攻击？](https://tech.meituan.com/2018/10/11/fe-security-csrf.html)
 - 垃圾回收
