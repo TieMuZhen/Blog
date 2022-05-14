@@ -242,7 +242,7 @@
   - [Vue自定义模态框](../../issues/95)
   - [Vue动态组件:is实现tab页切换](https://segmentfault.com/a/1190000018018502)
   - [高阶组件(HOC)](http://caibaojian.com/vue-design/more/vue-hoc.html#vue-%E4%B8%AD%E7%9A%84%E9%AB%98%E9%98%B6%E7%BB%84%E4%BB%B6)[、使用举例](https://www.cnblogs.com/zhensg123/p/14699982.html)
-  - [vue中8种组件通信方式](https://juejin.cn/post/6844903887162310669)
+  - [vue中8种组件通信方式：props/$emit、$parent/$children、ref、provide/inject、Eventbus、Vuex、localStorage/sessionStorage、$attrs/$listeners](https://juejin.cn/post/6844903887162310669)
 - Vue3.0 
   - [Vue2.0和Vue3.0的区别](../../issues/69) 
   - [Vue3.0 所采用的 Composition Api 与 Vue2.x 使用的 Options Api 有什么不同？](https://juejin.cn/post/6844904066103902215)
