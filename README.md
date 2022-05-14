@@ -232,7 +232,7 @@
 - [为什么使用key](../../issues/66)
 - [为什么避免 v-if 和 v-for 一起用](../../issues/70)
 - [Vue 动态绑定样式的方式](../../issues/67)
-- [keep-alive缓存组件](https://juejin.cn/post/6844903918313406472)[、keep-alive缓存后怎么更新](../../issues/92)
+- [keep-alive缓存后怎么更新](../../issues/92)
 - 公共组件
   - [组件库按需加载原理分析](https://juejin.cn/post/6968505746757533710) 
   - [Mixins（混入）](https://segmentfault.com/a/1190000015698391)[及源码分析](https://github.com/febobo/web-interview/issues/15)
