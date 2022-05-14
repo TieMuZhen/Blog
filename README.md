@@ -225,7 +225,6 @@
 - 双向绑定原理
     - [数据响应(数据劫持)](../../issues/58)
     - [Vue数据双向绑定原理，实现v-model](../../issues/191)
-- [vue中8种组件通信方式](https://juejin.cn/post/6844903887162310669)
 - [vue-router](../../issues/38)
 - [按需加载的3种方式：vue异步组件require()、es提案的import()、webpack的require.ensure()](../../issues/62)
 - [Vue 自定义指令Vue.directive](https://github.com/febobo/web-interview/issues/21)
@@ -242,6 +241,7 @@
   - [Vue自定义模态框](../../issues/95)
   - [Vue动态组件实现tab页切换](https://segmentfault.com/a/1190000018018502)
   - [高阶组件(HOC)](http://caibaojian.com/vue-design/more/vue-hoc.html#vue-%E4%B8%AD%E7%9A%84%E9%AB%98%E9%98%B6%E7%BB%84%E4%BB%B6)[、使用举例](https://www.cnblogs.com/zhensg123/p/14699982.html)
+  - [vue中8种组件通信方式](https://juejin.cn/post/6844903887162310669)
 - Vue3.0 
   - [Vue2.0和Vue3.0的区别](../../issues/69) 
   - [Vue3.0 所采用的 Composition Api 与 Vue2.x 使用的 Options Api 有什么不同？](https://juejin.cn/post/6844904066103902215)
