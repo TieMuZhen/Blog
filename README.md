@@ -223,7 +223,7 @@
 - 双向绑定原理
     - [数据响应(数据劫持)](../../issues/58)
     - [Vue数据双向绑定原理，实现v-model](../../issues/191)
--router
+- router
   - [vue-router](../../issues/38)
   - [hash 和 history 模式](https://zhuanlan.zhihu.com/p/130995492)
 - [按需加载的3种方式：vue异步组件require()、es提案的import()、webpack的require.ensure()](../../issues/62)
