@@ -234,7 +234,7 @@
 - [Vue 动态绑定样式的方式](../../issues/67)
 - [keep-alive缓存后怎么更新](../../issues/92)
 - 公共组件
-  - [Mixins（混入）](https://segmentfault.com/a/1190000015698391)[及源码分析](https://github.com/febobo/web-interview/issues/15)
+  - [Mixins（混入）及源码分析](https://github.com/febobo/web-interview/issues/15)
   - [v-once、Vue.component](../../issues/133)
   - [插件 Vue.use(plugin) 的原理和使用](../../issues/64)
   - [Vue.extend](../../issues/132)
