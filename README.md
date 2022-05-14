@@ -227,7 +227,7 @@
   - [vue-router](../../issues/38)
   - [hash 和 history 模式](https://zhuanlan.zhihu.com/p/130995492)
   - [router-link和a标签的区别](../../issues/206)
-- [按需加载的3种方式：vue异步组件require()、es提案的import()、webpack的require.ensure()](../../issues/62)
+- [按需加载：vue异步组件require()、es6的import()（可进行chunk分包）](../../issues/62)
 - [Vue 自定义指令Vue.directive](https://github.com/febobo/web-interview/issues/21)
 - [为什么使用key](../../issues/66)
 - [为什么避免 v-if 和 v-for 一起用](../../issues/70)
