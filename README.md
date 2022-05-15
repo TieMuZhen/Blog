@@ -262,7 +262,7 @@
 - [中间件的理解和封装，express、koa区别](../../issues/122)
 - [Nodejs 大文件分片上传](../../issues/123)
 - [设计一个分页功能，前后端如何交互?](../../issues/124)
-- [PM2实用入门指南](https://www.cnblogs.com/chyingp/p/pm2-documentation.html)
+- [PM2自动重启、负载均衡、日志输出](https://www.cnblogs.com/chyingp/p/pm2-documentation.html)
 - [Node.js 与 log4js日志分级（TRACE、DEBUG、INFO、WARN、ERROR）](https://zhuanlan.zhihu.com/p/22110802)
 - [自动化API测试](https://cloud.tencent.com/developer/news/618920)
 
