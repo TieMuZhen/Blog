@@ -348,10 +348,13 @@
 - [线程与进程的区别，各自之间如何通信](../../issues/89)
 - [死锁的产生原因和解决办法](../../issues/90)
 
+> ## Git
+- [git merge 和 git rebase的区别](https://blog.csdn.net/qq_24147051/article/details/118050241)
+- [Git Flow](https://segmentfault.com/a/1190000006194051)
+
 > ## 工具
 - [Swagger API规范](https://swagger.io/)
 - [Jenkins 持续集成](https://www.jenkins.io/zh/doc/pipeline/tour/getting-started/)
-- [Git Flow](https://segmentfault.com/a/1190000006194051)
 - [前端代码上传到阿里云服务器上（OSS）并访问](../../issues/185)
 - [OSS 和 CDN 配合使用加速](https://maintao.com/2018/aliyun-oss-cdn-tips/)
 - [如何保证发布后 CDN 代码是最新的？如何预热？](../../issues/186)
