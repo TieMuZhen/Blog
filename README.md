@@ -349,7 +349,8 @@
 - [死锁的产生原因和解决办法](../../issues/90)
 
 > ## Git
-- [git merge 和 git rebase的区别](https://blog.csdn.net/qq_24147051/article/details/118050241)
+- [git merge 和 git rebase区别](https://blog.csdn.net/qq_24147051/article/details/118050241)
+- [git reset 和 git revert区别](https://blog.csdn.net/fly910905/article/details/88635673)
 - [Git Flow](https://segmentfault.com/a/1190000006194051)
 
 > ## 工具
