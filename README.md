@@ -327,7 +327,7 @@
 - [美团可视化埋点方案](https://tech.meituan.com/2019/08/15/mtflexbox-automation-buried-point-exploration.html)
 
 > ## 微前端
-- [微前端实践讲解](https://juejin.cn/post/6844903943873675271)
+- [微前端是什么](https://juejin.cn/post/6844904162509979662)
 
 > ## Nginx
 - [Nginx基本梳理](../../issues/60)
