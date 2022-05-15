@@ -297,7 +297,7 @@
 > ## Redis
 - [Redis概述](../../issues/147)
 - [Redis、Memcache、MongoDB区别](../../issues/148)
-- [缓存穿透、缓存击穿、缓存雪崩](../../issues/149)
+- [缓存穿透、缓存击穿、缓存雪崩](https://zhuanlan.zhihu.com/p/346651831)
 - [八种数据类型：String、Bitmap、Hyperloglog、List、Set、Zset有序集合、Hash、Geospatial地理位置](../../issues/140)
 - [模拟验证码发送](../../issues/145)
 - [Redis事务及乐观锁](../../issues/141)
