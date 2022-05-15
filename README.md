@@ -301,7 +301,7 @@
 - [八种数据类型：String、Bitmap、Hyperloglog、List、Set、Zset有序集合、Hash、Geospatial地理位置](../../issues/140)
 - [用 Bitmap 实现亿级数据统计](https://segmentfault.com/a/1190000040177140)
 - [模拟验证码发送](../../issues/145)
-- [Redis事务及乐观锁](../../issues/141)
+- [Redis事务、乐观锁、悲观锁](../../issues/141)
 - [Redis配置文件详解](../../issues/143)
 - [Redis订阅发布](../../issues/144)
 - [哨兵模式](../../issues/150)
