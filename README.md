@@ -267,7 +267,7 @@
 - [自动化API测试](https://cloud.tencent.com/developer/news/618920)
 
 > ## Babel
-- [Babel快速上手使用指南](https://juejin.cn/post/6844903858632654856)
+- [什么是Babel](https://juejin.cn/post/6901649054225465352)
 - [组件库按需加载原理分析](https://juejin.cn/post/6968505746757533710) 
 - [babel-polyfill](../../issues/188)
 - [Babel原理及插件开发](https://juejin.cn/post/6844903603983892487)
