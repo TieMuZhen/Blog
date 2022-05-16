@@ -61,13 +61,13 @@
   - [继承的七种方式](../../issues/53)
 - [面向对象编程特点、js实现面向对象(封装、继承、多态)、重载（不属于面向对象）](../../issues/200)
 - Promise和async / await
-  - [async / await 的错误处理方法](https://github.com/davidlin88/blogs/issues/2)
   - [async / await以及和promise、生成器Generator的区别](../../issues/21)
+  - [async 和 await 是怎么工作的？——生成器与协程](../../issues/182)
+  - [async / await 底层的 generator 实现](../../issues/183)
   - [Promise实现并发控制](../../issues/137)
   - [使用Promise实现红绿灯交替重复亮](../../issues/46)
   - [封装带有超时（重试）机制的异步请求工具函数](../../issues/177)
-  - [async 和 await 是怎么工作的？——生成器与协程](../../issues/182)
-  - [async / await 底层的 generator 实现](../../issues/183)
+  - [async / await 的错误处理方法](https://github.com/davidlin88/blogs/issues/2)
   - [Promise源码学习](../../issues/1)
 - 懒加载
   - [图片懒加载(lazyload)](../../issues/81)
