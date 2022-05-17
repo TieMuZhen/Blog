@@ -61,6 +61,7 @@
   - [继承的七种方式](../../issues/53)
 - [面向对象编程特点、js实现面向对象(封装、继承、多态)、重载（不属于面向对象）](../../issues/200)
 - Promise和async / await
+  - [什么是Promise](https://www.runoob.com/js/js-promise.html)
   - [async / await以及和promise、生成器Generator的区别](../../issues/21)
   - [async 和 await 是怎么工作的？——生成器与协程](../../issues/182)
   - [async / await 底层的 generator 实现](../../issues/183)
