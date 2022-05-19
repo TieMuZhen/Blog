@@ -321,6 +321,7 @@
 - [TypeScript 的另一面：类型编程](https://juejin.cn/post/6989796543880495135)
 
 > ## 图形处理
+- [ECharts 多图resize问题](../../issues/208)
 - [threejs](https://github.com/puxiao/threejs-tutorial)
 
 > ## 监控
