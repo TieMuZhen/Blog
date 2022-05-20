@@ -326,6 +326,7 @@
 
 > ## Docker
 - [Docker — 从入门到实践](https://yeasy.gitbook.io/docker_practice/)
+- [K8s 扩容 Docker](https://segmentfault.com/a/1190000039805777)
 
 > ## 监控
 - [monitor](https://github.com/clouDr-f2e/monitor)，用于收集页面的用户点击行为、路由跳转、接口报错、代码报错、并上报服务端
