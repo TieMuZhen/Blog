@@ -325,7 +325,7 @@
 - [threejs](https://github.com/puxiao/threejs-tutorial)
 
 > ## Docker
-- [Docker — 从入门到实践](https://vuepress.mirror.docker-practice.com/)
+- [Docker — 从入门到实践](https://yeasy.gitbook.io/docker_practice/)
 
 > ## 监控
 - [monitor](https://github.com/clouDr-f2e/monitor)，用于收集页面的用户点击行为、路由跳转、接口报错、代码报错、并上报服务端
