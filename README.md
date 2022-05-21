@@ -267,6 +267,7 @@
 - [PM2自动重启、负载均衡、日志输出](https://www.cnblogs.com/chyingp/p/pm2-documentation.html)
 - [Node.js 与 log4js日志分级（TRACE、DEBUG、INFO、WARN、ERROR）](https://zhuanlan.zhihu.com/p/22110802)
 - [自动化API测试](https://cloud.tencent.com/developer/news/618920)
+- [使用pkg将Node.js文件打包成exe文件](../../issues/210)
 
 > ## Babel
 - [什么是Babel](https://juejin.cn/post/6901649054225465352)
