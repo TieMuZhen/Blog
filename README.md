@@ -113,6 +113,7 @@
   - [遍历DOM树，拿到每个路径的便签和当前经过的便签的最大data-v的值](../../issues/192)
 
 > ## HTML
+- [HTML5`<head>`标签](../../issues/209)
 - [HTML5新增了哪些特性？](https://juejin.cn/post/6988039257587712008)
 - [对HTML5语义化的理解](../../issues/44)
 - [meta、link之预加载图片、文件](../../issues/49)
