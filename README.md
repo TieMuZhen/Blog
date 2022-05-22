@@ -361,6 +361,10 @@
 - [git merge 和 git rebase区别](https://blog.csdn.net/qq_24147051/article/details/118050241)
 - [git reset 和 git revert区别](https://blog.csdn.net/fly910905/article/details/88635673)
 - [Git Flow](https://segmentfault.com/a/1190000006194051)
+- GitLab
+  - [gitLab自动化部署步骤](https://juejin.cn/post/7012496217003261959)
+  - [.gitlab-ci.yml详细配置](https://juejin.cn/post/6971013569986953223)
+
 
 > ## 工具
 - [Swagger API规范](https://swagger.io/)
