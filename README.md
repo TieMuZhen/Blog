@@ -368,7 +368,6 @@
 
 > ## 工具
 - [Swagger API规范](https://swagger.io/)
-- [Jenkins 持续集成](https://www.jenkins.io/zh/doc/pipeline/tour/getting-started/)
 - [前端代码上传到阿里云服务器上（OSS）并访问](../../issues/185)
 - [OSS 和 CDN 配合使用加速](https://maintao.com/2018/aliyun-oss-cdn-tips/)
 - [如何保证发布后 CDN 代码是最新的？如何预热？](../../issues/186)
