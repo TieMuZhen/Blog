@@ -164,6 +164,8 @@
 - [如何理解TCP/IP协议?](../../issues/114)
 - [DNS协议是什么？说说DNS完整的查询过程?](../../issues/115)
 - [如何理解CDN？说说实现原理？](../../issues/116)
+- [三次握手、四次挥手及其涉及的相关问题](https://juejin.cn/post/6844903958624878606)
+- [TCP、UDP的区别，TCP如何实现可靠传输，UDP如何改进实现可靠传输](../../issues/88)
 - [从输入 URL 到页面加载完成的过程中都发生了什么事情？](../../issues/117)
 - [HTTP/0.9、HTTP/1.0、HTTP/1.1、HTTP/2、HTTP/3、websocket之间的区别，HTTP 和 HTTPS 的区别](../../issues/57)
 - [一个TCP连接可以发送多少个HTTP请求？](https://juejin.cn/post/7000173309509926925)
@@ -174,8 +176,6 @@
   - [HTTP headers和HTTP request methods](../../issues/7)
   - [HTTP headers 之 host, referer, origin](https://juejin.cn/post/6844903954455724045)
   - [HTTP 常见的状态码和适用场景](../../issues/87)
-- [TCP、UDP的区别，TCP如何实现可靠传输，UDP如何改进实现可靠传输](../../issues/88)
-- [三次握手、四次挥手及其涉及的相关问题](https://juejin.cn/post/6844903958624878606)
 - 跨域
   - [简单请求、复杂请求、预检请求、跨域资源共享CORS](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/CORS)
 - 异步请求方式
