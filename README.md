@@ -195,7 +195,7 @@
 > ## 浏览器
 - 架构
   - [浏览器架构，共四部分](https://cloud.tencent.com/developer/article/1806716)
--  渲染
+- 渲染
   - [浏览器的渲染原理](https://coolshell.cn/articles/9666.html)
   - [回流与重绘 (Reflow & Repaint)](../../issues/101)
 - JS执行机制
