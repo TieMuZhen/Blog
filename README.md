@@ -195,11 +195,10 @@
 > ## 浏览器
 - 架构
   - [浏览器架构，共四部分](https://cloud.tencent.com/developer/article/1806716)
+  - [从浏览器多进程到JS单线程](https://segmentfault.com/a/1190000012925872)
 - 渲染
   - [浏览器的渲染原理](https://coolshell.cn/articles/9666.html)
   - [回流与重绘 (Reflow & Repaint)](../../issues/101)
-- JS执行机制
-  - [从浏览器多进程到JS单线程](https://segmentfault.com/a/1190000012925872)
 - 浏览器安全
   - [Web 安全](https://segmentfault.com/a/1190000023396707)、[如何防止CSRF攻击？](https://tech.meituan.com/2018/10/11/fe-security-csrf.html)
 - 垃圾回收
