@@ -240,7 +240,7 @@
   - [Mixins使用及与Vuex区别](../../issues/212)
   - [v-once、Vue.component](../../issues/133)
   - [插件 Vue.use(plugin) 的原理和使用](../../issues/64)
-  - [Vue.extend](../../issues/132)
+  - [Vue.extend + $mount](../../issues/132)
   - [Vue 插槽(slot)](https://github.com/febobo/web-interview/issues/16)
   - [Vue自定义模态框](../../issues/95)
   - [Vue动态组件:is实现tab页切换](https://segmentfault.com/a/1190000018018502)
