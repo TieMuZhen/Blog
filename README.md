@@ -223,6 +223,7 @@
 - [动态给vue的data添加一个新的属性时界面不刷新？怎样解决？](https://github.com/febobo/web-interview/issues/10)
 - [Vue的SEO优化方案](../../issues/94)
 - [Vue 组件为何采用异步渲染-nextTick的实现原理](https://juejin.cn/post/6844903590293684231)
+- [vue 播放器插件vue-video-player踩坑](../../issues/213)
 - 双向绑定原理
     - [数据响应(数据劫持)](../../issues/58)
     - [Vue数据双向绑定原理，实现v-model](../../issues/191)
