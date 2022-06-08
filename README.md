@@ -274,6 +274,8 @@
 - Koa
   - [Koa 的洋葱模型koa-compose](https://juejin.cn/post/7012031464237694983) 
   - [中间件的理解和封装，express、koa区别](../../issues/122)
+- 消息队列
+  - [前端高性能队列 bull](https://toutiao.io/posts/fgyca4d/preview)
 
 > ## Babel
 - [什么是Babel](https://juejin.cn/post/6901649054225465352)
@@ -357,7 +359,6 @@
 - [前端性能优化 24 条建议（2020）](https://juejin.cn/post/6892994632968306702)
 - [前端性能优化之旅](https://alienzhou.github.io/fe-performance-journey/)
 - [搜索引擎优化（SEO）的技巧](https://zhuanlan.zhihu.com/p/43364394)
-- [前端高性能队列 bull](https://toutiao.io/posts/fgyca4d/preview)
 
 > ## 操作系统
 - [32位和64位的区别](../../issues/203)
