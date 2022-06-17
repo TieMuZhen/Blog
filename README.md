@@ -24,11 +24,14 @@
   - [事件循环试题](https://github.com/Advanced-Frontend/Daily-Interview-Question/issues/7)
   - [事件循环EvenLoop](../../issues/31)
   - [requestAnimationFrame 和 setTimeout/setInterval 区别](../../issues/22)
-- Object
-  - [assign、keys、getOwnPropertyDescriptor、create、defineProperty](../../issues/167)
-  - [entries、FromEntries](../../issues/168)
-  - [freeze(冻结)、seal(封闭)](https://zhuanlan.zhihu.com/p/145153864)
-  - [preventExtensions与freeze、seal区别](../../issues/169)
+- 类型转换
+  - [undefined与null的区别](https://www.ruanyifeng.com/blog/2014/03/undefined-vs-null.html)
+  - [== 和 === 区别](../../issues/11)
+  - [Object.is() 与 ===、== 区别](../../issues/30)
+  - [JS中原始类型有哪几种？null 是对象吗？原始数据类型和复杂数据类型有什么区别？](../../issues/43)
+  - [类型转换规则](../../issues/23)
+  - [typeof 、instanceof是否正确判断类型? instanceof 原理](../../issues/51)
+  - [让 (a == 1 && a == 2 && a == 3) 的值为true](../../issues/45)  
 - 数组
   - [类数组和数组的区别](../../issues/10)
   - [数组方法分类](../../issues/82)
@@ -38,14 +41,11 @@
   - [for of , for in 和 forEach,map 的区别](../../issues/9)
   - [手写forEach、map、reduce、filter](../../issues/170)
   - [深拷贝和浅拷贝](../../issues/39)
-- 类型转换
-  - [undefined与null的区别](https://www.ruanyifeng.com/blog/2014/03/undefined-vs-null.html)
-  - [== 和 === 区别](../../issues/11)
-  - [Object.is() 与 ===、== 区别](../../issues/30)
-  - [JS中原始类型有哪几种？null 是对象吗？原始数据类型和复杂数据类型有什么区别？](../../issues/43)
-  - [类型转换规则](../../issues/23)
-  - [typeof 、instanceof是否正确判断类型? instanceof 原理](../../issues/51)
-  - [让 (a == 1 && a == 2 && a == 3) 的值为true](../../issues/45)  
+- Object
+  - [assign、keys、getOwnPropertyDescriptor、create、defineProperty](../../issues/167)
+  - [entries、FromEntries](../../issues/168)
+  - [freeze(冻结)、seal(封闭)](https://zhuanlan.zhihu.com/p/145153864)
+  - [preventExtensions与freeze、seal区别](../../issues/169)
 - 作用域、作用域链、预编译、执行上下文、闭包
   - [预编译、作用域与执行上下文](../../issues/28)
   - [作用域链](../../issues/77)
