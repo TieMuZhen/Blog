@@ -70,6 +70,14 @@
   - [封装带有超时（重试）机制的异步请求工具函数](../../issues/177)
   - [async / await 的错误处理方法](../../issues/207)
   - [Promise源码学习](../../issues/1)
+- 模块化
+  - [CommonJS循环加载](../../issues/199)
+  - [模块化：ES6、Commond、AMD、CMD](../../issues/24)
+  - [Commonjs 和 Es Module](https://juejin.cn/post/6994224541312483336)
+  - [js异步加载方式](../../issues/27)
+- 事件代理机制
+  - [浏览器事件代理机制：捕获、冒泡](../../issues/25)
+  - [onclick与addEventListener区别](../../issues/190)
 - 懒加载
   - [图片懒加载(lazyload)](../../issues/81)
   - [路由按需加载（懒加载）的3种方式：vue异步组件require()、es提案的import()、webpack的require.ensure()](../../issues/62)
@@ -88,14 +96,6 @@
   - [基于 Localstorage 设计一个 1M 的缓存系统，需要实现缓存淘汰机制](../../issues/42)
 - [防抖和节流](../../issues/2)
 - [同源策略以及实现跨域的方式](../../issues/6)
-- 模块化
-  - [CommonJS循环加载](../../issues/199)
-  - [模块化：ES6、Commond、AMD、CMD](../../issues/24)
-  - [Commonjs 和 Es Module](https://juejin.cn/post/6994224541312483336)
-  - [js异步加载方式](../../issues/27)
-- 事件代理机制
-  - [浏览器事件代理机制：捕获、冒泡](../../issues/25)
-  - [onclick与addEventListener区别](../../issues/190)
 - [跨页面通信](https://juejin.cn/post/6844903811232825357#heading-3)
 - [自定义事件](../../issues/26)
 - [立即执行函数（IIFE）](../../issues/76)
