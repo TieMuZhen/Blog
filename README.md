@@ -89,7 +89,7 @@
 - 存储
   - [前端存储之 cookie、localStorage、sessionStorage 和 indexedDB](../../issues/83)
   - [Cookie、Session、Token(JWT)区别](https://juejin.cn/post/6844904115080790023)、[分布式Session一致性的4种解决方案](https://segmentfault.com/a/1190000022404396)
-  - [如何防止JWT被盗](https://cloud.tencent.com/developer/article/1424531)
+  - [什么是 JWT? 如何基于 JWT 进行身份验证？如何加强 JWT 的安全性？如何让 Token 失效？](https://www.jianshu.com/p/6b79b2f95ce6)
   - [为什么在京东搜索的商品，会展示在抖音广告上](http://www.woshipm.com/marketing/3259963.html)
   - [跨tab页sessionStorage共享](../../issues/175)
   - [LHS和RHS查询](../../issues/13)
