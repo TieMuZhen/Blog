@@ -328,6 +328,7 @@
 - [分布式锁](../../issues/156)
 - [秒杀案例](../../issues/157)
 - [Redis经典面试题](../../issues/158)
+- [分布式系统的8个谬误](https://cloud.tencent.com/developer/article/1370391)
 
 > ## TypeScript
 - [TypeScript 入门教程](https://ts.xcatliu.com/)
