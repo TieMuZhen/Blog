@@ -270,7 +270,6 @@
 - [设计一个分页功能，前后端如何交互?](../../issues/124)
 - [PM2自动重启、负载均衡、日志输出](https://www.cnblogs.com/chyingp/p/pm2-documentation.html)
 - [Node.js 与 log4js日志分级（TRACE、DEBUG、INFO、WARN、ERROR）](https://zhuanlan.zhihu.com/p/22110802)
-- [自动化API测试](https://cloud.tencent.com/developer/news/618920)
 - [使用pkg将Node.js文件打包成exe文件](../../issues/210)
 - Koa
   - [Koa 的洋葱模型koa-compose](https://juejin.cn/post/7012031464237694983) 
@@ -330,9 +329,9 @@
 - [Redis经典面试题](../../issues/158)
 - [分布式系统的8个谬误](https://cloud.tencent.com/developer/article/1370391)
 
-> ## TypeScript
-- [TypeScript 入门教程](https://ts.xcatliu.com/)
-- [TypeScript 的另一面：类型编程](https://juejin.cn/post/6989796543880495135)
+> ## 测试
+- [前端自动化测试Cypress](https://www.cnblogs.com/Yellow-ice/p/14851186.html)
+- [Koa 测试](https://juejin.cn/post/6844903872079593486)
 
 > ## 图形处理
 - [ECharts 多图resize问题](../../issues/208)
@@ -341,14 +340,6 @@
 > ## Docker
 - [Docker — 从入门到实践](https://yeasy.gitbook.io/docker_practice/)
 - [K8s 扩容 Docker](https://segmentfault.com/a/1190000039805777)
-
-> ## 监控
-- [monitor](https://github.com/clouDr-f2e/monitor)，用于收集页面的用户点击行为、路由跳转、接口报错、代码报错、并上报服务端
-- [如何进行 web 性能监控？](http://www.alloyteam.com/2020/01/14184/#prettyPhoto)
-- [美团可视化埋点方案](https://tech.meituan.com/2019/08/15/mtflexbox-automation-buried-point-exploration.html)
-
-> ## 微前端
-- [微前端是什么](https://juejin.cn/post/6844904162509979662)
 
 > ## Nginx
 - [Nginx基本梳理](../../issues/60)
@@ -377,13 +368,23 @@
   - [gitLab自动化部署步骤](https://juejin.cn/post/7012496217003261959)
   - [.gitlab-ci.yml详细配置](https://juejin.cn/post/6971013569986953223)
 
+> ## TypeScript
+- [TypeScript 入门教程](https://ts.xcatliu.com/)
+- [TypeScript 的另一面：类型编程](https://juejin.cn/post/6989796543880495135)
+
+> ## 监控
+- [monitor](https://github.com/clouDr-f2e/monitor)，用于收集页面的用户点击行为、路由跳转、接口报错、代码报错、并上报服务端
+- [如何进行 web 性能监控？](http://www.alloyteam.com/2020/01/14184/#prettyPhoto)
+- [美团可视化埋点方案](https://tech.meituan.com/2019/08/15/mtflexbox-automation-buried-point-exploration.html)
+
+> ## 微前端
+- [微前端是什么](https://juejin.cn/post/6844904162509979662)
 
 > ## 工具
 - [Swagger API规范](https://swagger.io/)
 - [前端代码上传到阿里云服务器上（OSS）并访问](../../issues/185)
 - [OSS 和 CDN 配合使用加速](https://maintao.com/2018/aliyun-oss-cdn-tips/)
 - [如何保证发布后 CDN 代码是最新的？如何预热？](../../issues/186)
-- [前端单元测试](https://juejin.cn/post/7039108357554176037)
 - [Google Analytics跨域跟踪用户数据](https://www.webanalytics.com.cn/blog/google-analytics-cross-domain-tracking/)
 
 > ## 算法
