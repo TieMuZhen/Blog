@@ -387,6 +387,9 @@
 - [如何保证发布后 CDN 代码是最新的？如何预热？](../../issues/186)
 - [Google Analytics跨域跟踪用户数据](https://www.webanalytics.com.cn/blog/google-analytics-cross-domain-tracking/)
 
+> ## 桌面应用
+- [NW.js 和 Electron对比](https://www.zhihu.com/question/38854224)
+
 > ## 算法
 - [时间复杂度分析方法](https://mp.weixin.qq.com/s/Rzdz_dwS_4eOoX7XkFIALQ)[、时间和空间复杂度分析案例](https://zhuanlan.zhihu.com/p/50479555)
 - [快速排序、堆排序、二路归并排序、插入排序](../../issues/163)
