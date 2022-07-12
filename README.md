@@ -294,6 +294,7 @@
 - [文件指纹策略](../../issues/112)
 - [文件监听原理](../../issues/110)
 - [Webpack 的热更新原理](../../issues/107)
+- [Webpack 图片压缩](https://juejin.cn/post/6844904150845620237)
 - [如何对bundle体积进行监控和分析？](../../issues/111)
 - Chunk
   - [理解 Chunk](https://juejin.cn/post/6844903889393680392)
