@@ -353,7 +353,6 @@
 - [最新性能指标](https://juejin.cn/post/6850037270729359367)
 - [前端性能优化 24 条建议（2020）](https://juejin.cn/post/6892994632968306702)
 - [前端性能优化之旅](https://alienzhou.github.io/fe-performance-journey/)
-- [搜索引擎优化（SEO）的技巧](https://zhuanlan.zhihu.com/p/43364394)
 
 > ## 操作系统
 - [32位和64位的区别](../../issues/203)
