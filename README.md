@@ -116,6 +116,7 @@
 - [HTML5`<head>`标签](../../issues/209)
 - [HTML5新增了哪些特性？](https://juejin.cn/post/6988039257587712008)
 - [对HTML5语义化的理解](../../issues/44)
+- [preload、prefetch、preconnect 和 dns-prefetch区别](https://juejin.cn/post/6915204591730556935)
 - [meta、link之预加载图片、文件](../../issues/49)
 - [SPA单页面优缺点及SPA首屏加载速度慢解决办法](../../issues/68)
 - [HTML meta标签](https://segmentfault.com/a/1190000004279791)
