@@ -53,7 +53,7 @@
   - [作用域题目汇总](../../issues/184)
 - this指向
   - [this的绑定规则、场景](../../issues/12)
-  - [call,aplly和bind的区别及实现原理](../../issues/79)
+  - [call,apply和bind的区别及实现原理](../../issues/79)
 - 原型、原型链、继承
   - [原型](../../issues/52)
   - [原型链解决的是什么问题？prototype 和__proto__区别是什么？](../../issues/19)
