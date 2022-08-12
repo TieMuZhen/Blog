@@ -350,6 +350,7 @@
 - [Nginx基本梳理](../../issues/60)
 
 > ## 性能优化
+- [TTFB优化](https://zhuanlan.zhihu.com/p/344261204)
 - [如何监控网页的卡顿？](https://zhuanlan.zhihu.com/p/39292837)
 - [前端性能优化Gzip](https://juejin.cn/post/6844903843377971214)
 - [如何对直播卡顿优化](https://juejin.cn/post/7062552765117136903#heading-13)
