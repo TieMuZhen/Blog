@@ -257,6 +257,11 @@
   - [Vuex 简单介绍](../../issues/63)
   - [Vuex 和 localStorage 的区别](../../issues/205)
 
+> ## React
+- Hooks
+  - [常用Hooks：useState、useContext、useReducer、useEffect](https://www.ruanyifeng.com/blog/2019/09/react-hooks.html)
+  - [useEffect详细使用指南](https://zhuanlan.zhihu.com/p/65773322)
+
 > ## Node
 - [Node.js 架构](https://juejin.cn/post/7081891057918558221)
 - [Webpack配置Node环境变量](../../issues/138)
