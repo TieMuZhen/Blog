@@ -260,6 +260,7 @@
 > ## React
 - [React 生命周期](https://github.com/beichensky/Blog/issues/3)
 - [React Router 原理](https://zhuanlan.zhihu.com/p/270651966)
+- [React 渲染过程、Fiber作用](https://cloud.tencent.com/developer/article/1882296)
 - Hooks
   - [常用Hooks：useState、useContext、useReducer、useEffect、useMemo](https://blog.csdn.net/pz1021/article/details/104763207)
   - [useEffect详细使用指南](https://zhuanlan.zhihu.com/p/65773322)
