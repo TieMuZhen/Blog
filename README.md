@@ -259,7 +259,7 @@
 
 > ## React
 - Hooks
-  - [常用Hooks：useState、useContext、useReducer、useEffect](https://www.ruanyifeng.com/blog/2019/09/react-hooks.html)
+  - [常用Hooks：useState、useContext、useReducer、useEffect、useMemo](https://blog.csdn.net/pz1021/article/details/104763207)
   - [useEffect详细使用指南](https://zhuanlan.zhihu.com/p/65773322)
 
 > ## Node
