@@ -127,6 +127,7 @@
 - [CSS变量 var()](../../issues/196)
 - [超过行数的文本用省略号替代](../../issues/178)
 - [px、em、rem、vh、vw区别](../../issues/98) 
+- [画0.5px的线](https://juejin.cn/post/6844903582370643975)
 - [设备像素、css像素、设备独立像素、dpr、ppi 之间的区别](../../issues/99)
 - [:first-child / :last-child、:first-of-type / :last-of-type、:nth-child(n) / :nth-last-child(n)的区别](../../issues/134)
 - 盒模型
