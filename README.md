@@ -440,6 +440,7 @@
 
 
 > ## 其它
+- [无虚拟DOM框架Svelte](https://www.sveltejs.cn/)
 - [MockingBird 只要5秒的原始讲话录音，就能克隆该声音，让它说出任意给定文本](https://github.com/babysor/MockingBird/blob/main/README-CN.md)
 - [web前端面试](https://vue3js.cn/interview/)
 
