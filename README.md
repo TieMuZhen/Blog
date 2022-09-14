@@ -399,6 +399,7 @@
 > ## 微前端
 - [微前端是什么](https://juejin.cn/post/6844904162509979662)
 - [微前端方案iframe、sigle-spa、qiankun和microApp对比](https://zhuanlan.zhihu.com/p/480796762)
+- [qiankun中的“坑”](https://developer.aliyun.com/article/919870)
 
 > ## 工具
 - [Swagger API规范](https://swagger.io/)
