@@ -313,6 +313,7 @@
   - [理解 Chunk](https://juejin.cn/post/6844903889393680392)
   - [optimization.runtimeChunk详解、script-ext-html-webpack-plugin使用](../../issues/211)
   - [代码分割和公共代码提取](https://segmentfault.com/a/1190000021074403)
+  - [动态import 按需加载原理](https://juejin.cn/post/7087488024883232799)
 - [如何使用webpack优化前端性能](../../issues/105)
 - [如何提高webpack的构建速度](../../issues/106)
 - [Tree Shaking原理](../../issues/187)
