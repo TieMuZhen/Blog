@@ -307,16 +307,18 @@
 - [文件指纹策略](../../issues/112)
 - [文件监听原理](../../issues/110)
 - [Webpack 的热更新原理](../../issues/107)
-- [Webpack 图片压缩](https://segmentfault.com/a/1190000040364874)
 - [如何对bundle体积进行监控和分析？](../../issues/111)
 - Chunk
   - [理解 Chunk](https://juejin.cn/post/6844903889393680392)
   - [optimization.runtimeChunk详解、script-ext-html-webpack-plugin使用](../../issues/211)
   - [代码分割和公共代码提取](https://segmentfault.com/a/1190000021074403)
   - [动态import 按需加载原理](https://juejin.cn/post/7087488024883232799)
-- [如何使用webpack优化前端性能](../../issues/105)
-- [如何提高webpack的构建速度](../../issues/106)
-- [Tree Shaking原理](../../issues/187)
+- 性能优化
+  - [Webpack 图片压缩](https://segmentfault.com/a/1190000040364874)
+  - [如何使用webpack优化前端性能](../../issues/105)
+  - [如何提高webpack的构建速度](../../issues/106)
+  - [Tree Shaking原理](../../issues/187)
+  - [prerender-spa-plugin预渲染原理](https://juejin.cn/post/7090567116864094239)
 - npm
   - [npm和yarn的区别](../../issues/125)
   - [npm 安装时 --save --dev 和 --save 区别](../../issues/126)
