@@ -224,6 +224,7 @@
 - [watch、computed区别及属性的监听](../../issues/84)
 - [Vue过滤器](../../issues/93)
 - diff与key
+  - [虚拟dom及diff算法详解](https://juejin.cn/post/6844904078196097031)
   - [Vue中的diff算法](../../issues/71)
   - [为什么使用key](../../issues/66)
   - [Vue 中强制组件重新渲染的4种方法](https://juejin.cn/post/6844904054766698509)
