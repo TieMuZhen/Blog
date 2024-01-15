@@ -212,7 +212,7 @@
   - [V8垃圾回收机制、内存泄露](../../issues/56)
 
 > ## Java
-- [阻塞队列](https://blog.csdn.net/m0_69269392/article/details/132214882)
+- [阻塞队列（BlockingQueue）的应用（生产者消费者 & 线程池）](https://blog.csdn.net/luweibin19/article/details/106296362)
 - [集合类，同步容器、并发容器](https://zhuanlan.zhihu.com/p/94839190)
 - 锁 
   - [悲观锁、乐观锁、可重入锁、读锁（共享锁）、写锁（互斥锁、排他锁）](https://zhuanlan.zhihu.com/p/71156910)
