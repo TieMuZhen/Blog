@@ -219,7 +219,10 @@
   - [悲观锁、乐观锁、可重入锁、读锁（共享锁）、写锁（互斥锁、排他锁）](https://zhuanlan.zhihu.com/p/71156910)
   - [自旋锁](https://www.cnblogs.com/cxuanBlog/p/11679883.html)
   - [多线程之死锁](https://blog.csdn.net/qq_14996421/article/details/102531725)
-  
+
+> ## SpringBoot
+- [SpringBoot下的单例模式](https://juejin.cn/post/7290816406474489919)
+ 
 > ## 设计模式
 - [权限设计方案](https://juejin.cn/post/6949453195987025927)
 - [工厂模式、构造函数模式、寄生构造函数模式、稳妥构造函数模式](../../issues/54)
