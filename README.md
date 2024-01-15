@@ -212,6 +212,7 @@
   - [V8垃圾回收机制、内存泄露](../../issues/56)
 
 > ## Java
+- [线程池及使用场景](https://blog.csdn.net/weixin_42265148/article/details/104739070)
 - [阻塞队列（BlockingQueue）的应用（生产者消费者 & 线程池）](https://blog.csdn.net/luweibin19/article/details/106296362)
 - [集合类，同步容器、并发容器](https://zhuanlan.zhihu.com/p/94839190)
 - 锁 
