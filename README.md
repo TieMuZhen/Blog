@@ -214,6 +214,7 @@
 > ## Java
 - [阻塞队列](https://blog.csdn.net/m0_69269392/article/details/132214882)
 - [集合类，同步容器、并发容器](https://zhuanlan.zhihu.com/p/94839190)
+- [多线程之死锁](https://blog.csdn.net/qq_14996421/article/details/102531725)
   
 > ## 设计模式
 - [权限设计方案](https://juejin.cn/post/6949453195987025927)
