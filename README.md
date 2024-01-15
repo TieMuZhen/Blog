@@ -214,7 +214,10 @@
 > ## Java
 - [阻塞队列](https://blog.csdn.net/m0_69269392/article/details/132214882)
 - [集合类，同步容器、并发容器](https://zhuanlan.zhihu.com/p/94839190)
-- [多线程之死锁](https://blog.csdn.net/qq_14996421/article/details/102531725)
+- 锁 
+  - [悲观锁、乐观锁、可重入锁、读锁（共享锁）、写锁（互斥锁、排他锁）](https://zhuanlan.zhihu.com/p/71156910)
+  - [自旋锁](https://www.cnblogs.com/cxuanBlog/p/11679883.html)
+  - [多线程之死锁](https://blog.csdn.net/qq_14996421/article/details/102531725)
   
 > ## 设计模式
 - [权限设计方案](https://juejin.cn/post/6949453195987025927)
