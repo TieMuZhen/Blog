@@ -214,11 +214,12 @@
 > ## Java
 - [线程池及使用场景](https://blog.csdn.net/weixin_42265148/article/details/104739070)
 - [阻塞队列（BlockingQueue）的应用（生产者消费者 & 线程池）](https://blog.csdn.net/luweibin19/article/details/106296362)
-- [线程安全之集合类，同步容器、并发容器](https://zhuanlan.zhihu.com/p/94839190)
+- [线程安全之集合类（List、Map、Set），同步容器（Vector、Collections.synchronized）、并发容器（JUC）](https://zhuanlan.zhihu.com/p/94839190)
 - 锁 
   - [悲观锁、乐观锁、可重入锁、读锁（共享锁）、写锁（互斥锁、排他锁）](https://zhuanlan.zhihu.com/p/71156910)
   - [自旋锁](https://www.cnblogs.com/cxuanBlog/p/11679883.html)
   - [多线程之死锁](https://blog.csdn.net/qq_14996421/article/details/102531725)
+- [线程通信方式（volatile、synchronized、JUC工具类 CountDownLatch）](https://blog.csdn.net/qq_42411214/article/details/107767326) 
 
 > ## SpringBoot
 - [SpringBoot下的单例模式](https://juejin.cn/post/7290816406474489919)
